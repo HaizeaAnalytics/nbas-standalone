@@ -1,0 +1,89 @@
+{
+    "areas": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "0",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                151.218138,
+                                -25.242611
+                            ],
+                            [
+                                151.21786,
+                                -25.245697
+                            ],
+                            [
+                                151.240417,
+                                -25.246893
+                            ],
+                            [
+                                151.240278,
+                                -25.242107
+                            ],
+                            [
+                                151.218138,
+                                -25.242611
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "id": "0",
+                    "ecosys": 7,
+                    "state_b4": 6,
+                    "cond_b4_lo": 0.07,
+                    "cond_b4_hi": 0.07,
+                    "state_af": 3,
+                    "cond_af_lo": 0.51,
+                    "cond_af_hi": 0.51
+                }
+            },
+            {
+                "type": "Feature",
+                "id": "1",
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                151.221619,
+                                -25.250609
+                            ],
+                            [
+                                151.215841,
+                                -25.262762
+                            ],
+                            [
+                                151.237354,
+                                -25.263958
+                            ],
+                            [
+                                151.221619,
+                                -25.250609
+                            ]
+                        ]
+                    ]
+                },
+                "properties": {
+                    "id": "1",
+                    "ecosys": 183,
+                    "state_b4": 5,
+                    "cond_b4_lo": 0.16,
+                    "cond_b4_hi": 0.16,
+                    "state_af": 2,
+                    "cond_af_lo": 0.75,
+                    "cond_af_hi": 0.75
+                }
+            }
+        ]
+    },
+    "crs": "epsg:4326",
+    "options": {
+        "mock_conn": false
+    }
+}

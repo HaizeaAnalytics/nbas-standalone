@@ -7,26 +7,15 @@
 
 
 ### 1. Download docker image
-`sudo docker image pull chamithed/nbas:latest`
+`sudo docker image pull haizeaanalytics/nbas:latest`
 
-### 2. Run docker image. Keep this terminal window open - you'll need it later:
-`sudo docker run -ti --gpus all chamithed/nbas:latest /bin/bash`
+### 2. Run docker image and mount the current directory
+`sudo docker run -ti --gpus all -v ./:/data haizeaanalytics/nbas:latest /bin/bash`
 
-*Note: This opens an interactive session inside the container*
+*Note: This opens an interactive session inside the container with your current directory mounted. Please ensure your payload is available in this directory*
 
-### 3. Open new terminal and find container name
-`sudo docker container ls`
-
-### 4. Copy payload into container using the container_name from the previous step
-`sudo docker cp ./payload.json {container_name}:/app/payload.json`
-
-*Note: An example payload can be found in tests/test_payload.json in this repo*
-
-### 5. Switch back to your first terminal and run NBAS in the docker container
-`python3.11 main.py payload.json`
-
-### 6. Go back to the second terminal and copy result to host machine
-`sudo docker cp {container_name}:/app/results/xxxx-results.json ./result.json`
+### 3. Run NBAS in the docker container
+`python3.11 main.py /data/payload.json`
 
 ## Disclaimer
 Results from this standalone version of NBAS differ slightly from the original NBAS service due to slight differences in how areas are clipped from the full datasets.
