@@ -17,5 +17,8 @@
 ### 3. Run NBAS in the docker container
 `python3.11 main.py /data/path/to/payload.json`
 
+### 4. Copy result to home directory
+`cp result/xxxx-result.json /data/path/to/result.json`
+
 ## Disclaimer
 Results from this standalone version of NBAS differ slightly from the original NBAS service due to slight differences in how areas are clipped from the full datasets.
