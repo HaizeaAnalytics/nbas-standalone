@@ -1,0 +1,7 @@
+*.tif
+*.pyc
+**/__pycache__
+.nbas
+/debug
+/results
+*.tar

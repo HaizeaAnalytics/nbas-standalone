@@ -1,0 +1,691 @@
+eco_num,mvg_num,mvg_name,cmz_num,cmz_name
+1,1.0,Rainforests and Vine Thickets,1.0,Arid Shrublands and Desert
+2,1.0,Rainforests and Vine Thickets,2.0,Australian Alps Montane Grasslands and Heathlands
+3,1.0,Rainforests and Vine Thickets,3.0,Brigalow Woodlands
+4,1.0,Rainforests and Vine Thickets,4.0,South Western Australia Mallee Woodlands
+5,1.0,Rainforests and Vine Thickets,5.0,Eastern Australia Mulga Shrublands
+6,1.0,Rainforests and Vine Thickets,6.0,Eastern Australia Temperate and Subtropical forests
+7,1.0,Rainforests and Vine Thickets,7.0,Eastern Australia Woodlands
+8,1.0,Rainforests and Vine Thickets,8.0,Eastern Australia Tropical Rainforests
+9,1.0,Rainforests and Vine Thickets,9.0,Mitchell Grasslands
+10,1.0,Rainforests and Vine Thickets,10.0,South Australian Eucalypt Woodlands
+11,1.0,Rainforests and Vine Thickets,11.0,Naracoorte Woodlands
+12,1.0,Rainforests and Vine Thickets,12.0,North Australian Tropical Savanna Woodlands
+13,1.0,Rainforests and Vine Thickets,13.0,North Eastern Australia Tropical Rainforests
+14,1.0,Rainforests and Vine Thickets,14.0,South Eastern Australia Mallee Woodlands
+15,1.0,Rainforests and Vine Thickets,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+16,1.0,Rainforests and Vine Thickets,16.0,South Eastern Australia Temperate Woodlands
+17,1.0,Rainforests and Vine Thickets,17.0,Esperance Coastal Shrublands and Mallee
+18,1.0,Rainforests and Vine Thickets,18.0,South Western Australia Temperate Forests
+19,1.0,Rainforests and Vine Thickets,19.0,South Western Australia Temperate Woodlands
+20,1.0,Rainforests and Vine Thickets,20.0,Swan Coastal Plain Shrublands and Woodlands
+21,1.0,Rainforests and Vine Thickets,21.0,Tasman Temperate Forests
+22,1.0,Rainforests and Vine Thickets,22.0,Western Australian Temperate Sandplain Woodlands
+23,1.0,Rainforests and Vine Thickets,23.0,Tasmanian Temperate Rainforests and Highland Forests
+24,2.0,Eucalypt Tall Open Forests,1.0,Arid Shrublands and Desert
+25,2.0,Eucalypt Tall Open Forests,2.0,Australian Alps Montane Grasslands and Heathlands
+26,2.0,Eucalypt Tall Open Forests,3.0,Brigalow Woodlands
+27,2.0,Eucalypt Tall Open Forests,4.0,South Western Australia Mallee Woodlands
+28,2.0,Eucalypt Tall Open Forests,5.0,Eastern Australia Mulga Shrublands
+29,2.0,Eucalypt Tall Open Forests,6.0,Eastern Australia Temperate and Subtropical forests
+30,2.0,Eucalypt Tall Open Forests,7.0,Eastern Australia Woodlands
+31,2.0,Eucalypt Tall Open Forests,8.0,Eastern Australia Tropical Rainforests
+32,2.0,Eucalypt Tall Open Forests,9.0,Mitchell Grasslands
+33,2.0,Eucalypt Tall Open Forests,10.0,South Australian Eucalypt Woodlands
+34,2.0,Eucalypt Tall Open Forests,11.0,Naracoorte Woodlands
+35,2.0,Eucalypt Tall Open Forests,12.0,North Australian Tropical Savanna Woodlands
+36,2.0,Eucalypt Tall Open Forests,13.0,North Eastern Australia Tropical Rainforests
+37,2.0,Eucalypt Tall Open Forests,14.0,South Eastern Australia Mallee Woodlands
+38,2.0,Eucalypt Tall Open Forests,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+39,2.0,Eucalypt Tall Open Forests,16.0,South Eastern Australia Temperate Woodlands
+40,2.0,Eucalypt Tall Open Forests,17.0,Esperance Coastal Shrublands and Mallee
+41,2.0,Eucalypt Tall Open Forests,18.0,South Western Australia Temperate Forests
+42,2.0,Eucalypt Tall Open Forests,19.0,South Western Australia Temperate Woodlands
+43,2.0,Eucalypt Tall Open Forests,20.0,Swan Coastal Plain Shrublands and Woodlands
+44,2.0,Eucalypt Tall Open Forests,21.0,Tasman Temperate Forests
+45,2.0,Eucalypt Tall Open Forests,22.0,Western Australian Temperate Sandplain Woodlands
+46,2.0,Eucalypt Tall Open Forests,23.0,Tasmanian Temperate Rainforests and Highland Forests
+47,3.0,Eucalypt Open Forests,1.0,Arid Shrublands and Desert
+48,3.0,Eucalypt Open Forests,2.0,Australian Alps Montane Grasslands and Heathlands
+49,3.0,Eucalypt Open Forests,3.0,Brigalow Woodlands
+50,3.0,Eucalypt Open Forests,4.0,South Western Australia Mallee Woodlands
+51,3.0,Eucalypt Open Forests,5.0,Eastern Australia Mulga Shrublands
+52,3.0,Eucalypt Open Forests,6.0,Eastern Australia Temperate and Subtropical forests
+53,3.0,Eucalypt Open Forests,7.0,Eastern Australia Woodlands
+54,3.0,Eucalypt Open Forests,8.0,Eastern Australia Tropical Rainforests
+55,3.0,Eucalypt Open Forests,9.0,Mitchell Grasslands
+56,3.0,Eucalypt Open Forests,10.0,South Australian Eucalypt Woodlands
+57,3.0,Eucalypt Open Forests,11.0,Naracoorte Woodlands
+58,3.0,Eucalypt Open Forests,12.0,North Australian Tropical Savanna Woodlands
+59,3.0,Eucalypt Open Forests,13.0,North Eastern Australia Tropical Rainforests
+60,3.0,Eucalypt Open Forests,14.0,South Eastern Australia Mallee Woodlands
+61,3.0,Eucalypt Open Forests,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+62,3.0,Eucalypt Open Forests,16.0,South Eastern Australia Temperate Woodlands
+63,3.0,Eucalypt Open Forests,17.0,Esperance Coastal Shrublands and Mallee
+64,3.0,Eucalypt Open Forests,18.0,South Western Australia Temperate Forests
+65,3.0,Eucalypt Open Forests,19.0,South Western Australia Temperate Woodlands
+66,3.0,Eucalypt Open Forests,20.0,Swan Coastal Plain Shrublands and Woodlands
+67,3.0,Eucalypt Open Forests,21.0,Tasman Temperate Forests
+68,3.0,Eucalypt Open Forests,22.0,Western Australian Temperate Sandplain Woodlands
+69,3.0,Eucalypt Open Forests,23.0,Tasmanian Temperate Rainforests and Highland Forests
+70,4.0,Eucalypt Low Open Forests,1.0,Arid Shrublands and Desert
+71,4.0,Eucalypt Low Open Forests,2.0,Australian Alps Montane Grasslands and Heathlands
+72,4.0,Eucalypt Low Open Forests,3.0,Brigalow Woodlands
+73,4.0,Eucalypt Low Open Forests,4.0,South Western Australia Mallee Woodlands
+74,4.0,Eucalypt Low Open Forests,5.0,Eastern Australia Mulga Shrublands
+75,4.0,Eucalypt Low Open Forests,6.0,Eastern Australia Temperate and Subtropical forests
+76,4.0,Eucalypt Low Open Forests,7.0,Eastern Australia Woodlands
+77,4.0,Eucalypt Low Open Forests,8.0,Eastern Australia Tropical Rainforests
+78,4.0,Eucalypt Low Open Forests,9.0,Mitchell Grasslands
+79,4.0,Eucalypt Low Open Forests,10.0,South Australian Eucalypt Woodlands
+80,4.0,Eucalypt Low Open Forests,11.0,Naracoorte Woodlands
+81,4.0,Eucalypt Low Open Forests,12.0,North Australian Tropical Savanna Woodlands
+82,4.0,Eucalypt Low Open Forests,13.0,North Eastern Australia Tropical Rainforests
+83,4.0,Eucalypt Low Open Forests,14.0,South Eastern Australia Mallee Woodlands
+84,4.0,Eucalypt Low Open Forests,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+85,4.0,Eucalypt Low Open Forests,16.0,South Eastern Australia Temperate Woodlands
+86,4.0,Eucalypt Low Open Forests,17.0,Esperance Coastal Shrublands and Mallee
+87,4.0,Eucalypt Low Open Forests,18.0,South Western Australia Temperate Forests
+88,4.0,Eucalypt Low Open Forests,19.0,South Western Australia Temperate Woodlands
+89,4.0,Eucalypt Low Open Forests,20.0,Swan Coastal Plain Shrublands and Woodlands
+90,4.0,Eucalypt Low Open Forests,21.0,Tasman Temperate Forests
+91,4.0,Eucalypt Low Open Forests,22.0,Western Australian Temperate Sandplain Woodlands
+92,4.0,Eucalypt Low Open Forests,23.0,Tasmanian Temperate Rainforests and Highland Forests
+93,5.0,Eucalypt Woodlands,1.0,Arid Shrublands and Desert
+94,5.0,Eucalypt Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+95,5.0,Eucalypt Woodlands,3.0,Brigalow Woodlands
+96,5.0,Eucalypt Woodlands,4.0,South Western Australia Mallee Woodlands
+97,5.0,Eucalypt Woodlands,5.0,Eastern Australia Mulga Shrublands
+98,5.0,Eucalypt Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+99,5.0,Eucalypt Woodlands,7.0,Eastern Australia Woodlands
+100,5.0,Eucalypt Woodlands,8.0,Eastern Australia Tropical Rainforests
+101,5.0,Eucalypt Woodlands,9.0,Mitchell Grasslands
+102,5.0,Eucalypt Woodlands,10.0,South Australian Eucalypt Woodlands
+103,5.0,Eucalypt Woodlands,11.0,Naracoorte Woodlands
+104,5.0,Eucalypt Woodlands,12.0,North Australian Tropical Savanna Woodlands
+105,5.0,Eucalypt Woodlands,13.0,North Eastern Australia Tropical Rainforests
+106,5.0,Eucalypt Woodlands,14.0,South Eastern Australia Mallee Woodlands
+107,5.0,Eucalypt Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+108,5.0,Eucalypt Woodlands,16.0,South Eastern Australia Temperate Woodlands
+109,5.0,Eucalypt Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+110,5.0,Eucalypt Woodlands,18.0,South Western Australia Temperate Forests
+111,5.0,Eucalypt Woodlands,19.0,South Western Australia Temperate Woodlands
+112,5.0,Eucalypt Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+113,5.0,Eucalypt Woodlands,21.0,Tasman Temperate Forests
+114,5.0,Eucalypt Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+115,5.0,Eucalypt Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+116,6.0,Acacia Forests and Woodlands,1.0,Arid Shrublands and Desert
+117,6.0,Acacia Forests and Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+118,6.0,Acacia Forests and Woodlands,3.0,Brigalow Woodlands
+119,6.0,Acacia Forests and Woodlands,4.0,South Western Australia Mallee Woodlands
+120,6.0,Acacia Forests and Woodlands,5.0,Eastern Australia Mulga Shrublands
+121,6.0,Acacia Forests and Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+122,6.0,Acacia Forests and Woodlands,7.0,Eastern Australia Woodlands
+123,6.0,Acacia Forests and Woodlands,8.0,Eastern Australia Tropical Rainforests
+124,6.0,Acacia Forests and Woodlands,9.0,Mitchell Grasslands
+125,6.0,Acacia Forests and Woodlands,10.0,South Australian Eucalypt Woodlands
+126,6.0,Acacia Forests and Woodlands,11.0,Naracoorte Woodlands
+127,6.0,Acacia Forests and Woodlands,12.0,North Australian Tropical Savanna Woodlands
+128,6.0,Acacia Forests and Woodlands,13.0,North Eastern Australia Tropical Rainforests
+129,6.0,Acacia Forests and Woodlands,14.0,South Eastern Australia Mallee Woodlands
+130,6.0,Acacia Forests and Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+131,6.0,Acacia Forests and Woodlands,16.0,South Eastern Australia Temperate Woodlands
+132,6.0,Acacia Forests and Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+133,6.0,Acacia Forests and Woodlands,18.0,South Western Australia Temperate Forests
+134,6.0,Acacia Forests and Woodlands,19.0,South Western Australia Temperate Woodlands
+135,6.0,Acacia Forests and Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+136,6.0,Acacia Forests and Woodlands,21.0,Tasman Temperate Forests
+137,6.0,Acacia Forests and Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+138,6.0,Acacia Forests and Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+139,7.0,Callitris Forests and Woodlands,1.0,Arid Shrublands and Desert
+140,7.0,Callitris Forests and Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+141,7.0,Callitris Forests and Woodlands,3.0,Brigalow Woodlands
+142,7.0,Callitris Forests and Woodlands,4.0,South Western Australia Mallee Woodlands
+143,7.0,Callitris Forests and Woodlands,5.0,Eastern Australia Mulga Shrublands
+144,7.0,Callitris Forests and Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+145,7.0,Callitris Forests and Woodlands,7.0,Eastern Australia Woodlands
+146,7.0,Callitris Forests and Woodlands,8.0,Eastern Australia Tropical Rainforests
+147,7.0,Callitris Forests and Woodlands,9.0,Mitchell Grasslands
+148,7.0,Callitris Forests and Woodlands,10.0,South Australian Eucalypt Woodlands
+149,7.0,Callitris Forests and Woodlands,11.0,Naracoorte Woodlands
+150,7.0,Callitris Forests and Woodlands,12.0,North Australian Tropical Savanna Woodlands
+151,7.0,Callitris Forests and Woodlands,13.0,North Eastern Australia Tropical Rainforests
+152,7.0,Callitris Forests and Woodlands,14.0,South Eastern Australia Mallee Woodlands
+153,7.0,Callitris Forests and Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+154,7.0,Callitris Forests and Woodlands,16.0,South Eastern Australia Temperate Woodlands
+155,7.0,Callitris Forests and Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+156,7.0,Callitris Forests and Woodlands,18.0,South Western Australia Temperate Forests
+157,7.0,Callitris Forests and Woodlands,19.0,South Western Australia Temperate Woodlands
+158,7.0,Callitris Forests and Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+159,7.0,Callitris Forests and Woodlands,21.0,Tasman Temperate Forests
+160,7.0,Callitris Forests and Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+161,7.0,Callitris Forests and Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+162,8.0,Casuarina Forests and Woodlands,1.0,Arid Shrublands and Desert
+163,8.0,Casuarina Forests and Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+164,8.0,Casuarina Forests and Woodlands,3.0,Brigalow Woodlands
+165,8.0,Casuarina Forests and Woodlands,4.0,South Western Australia Mallee Woodlands
+166,8.0,Casuarina Forests and Woodlands,5.0,Eastern Australia Mulga Shrublands
+167,8.0,Casuarina Forests and Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+168,8.0,Casuarina Forests and Woodlands,7.0,Eastern Australia Woodlands
+169,8.0,Casuarina Forests and Woodlands,8.0,Eastern Australia Tropical Rainforests
+170,8.0,Casuarina Forests and Woodlands,9.0,Mitchell Grasslands
+171,8.0,Casuarina Forests and Woodlands,10.0,South Australian Eucalypt Woodlands
+172,8.0,Casuarina Forests and Woodlands,11.0,Naracoorte Woodlands
+173,8.0,Casuarina Forests and Woodlands,12.0,North Australian Tropical Savanna Woodlands
+174,8.0,Casuarina Forests and Woodlands,13.0,North Eastern Australia Tropical Rainforests
+175,8.0,Casuarina Forests and Woodlands,14.0,South Eastern Australia Mallee Woodlands
+176,8.0,Casuarina Forests and Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+177,8.0,Casuarina Forests and Woodlands,16.0,South Eastern Australia Temperate Woodlands
+178,8.0,Casuarina Forests and Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+179,8.0,Casuarina Forests and Woodlands,18.0,South Western Australia Temperate Forests
+180,8.0,Casuarina Forests and Woodlands,19.0,South Western Australia Temperate Woodlands
+181,8.0,Casuarina Forests and Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+182,8.0,Casuarina Forests and Woodlands,21.0,Tasman Temperate Forests
+183,8.0,Casuarina Forests and Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+184,8.0,Casuarina Forests and Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+185,9.0,Melaleuca Forests and Woodlands,1.0,Arid Shrublands and Desert
+186,9.0,Melaleuca Forests and Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+187,9.0,Melaleuca Forests and Woodlands,3.0,Brigalow Woodlands
+188,9.0,Melaleuca Forests and Woodlands,4.0,South Western Australia Mallee Woodlands
+189,9.0,Melaleuca Forests and Woodlands,5.0,Eastern Australia Mulga Shrublands
+190,9.0,Melaleuca Forests and Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+191,9.0,Melaleuca Forests and Woodlands,7.0,Eastern Australia Woodlands
+192,9.0,Melaleuca Forests and Woodlands,8.0,Eastern Australia Tropical Rainforests
+193,9.0,Melaleuca Forests and Woodlands,9.0,Mitchell Grasslands
+194,9.0,Melaleuca Forests and Woodlands,10.0,South Australian Eucalypt Woodlands
+195,9.0,Melaleuca Forests and Woodlands,11.0,Naracoorte Woodlands
+196,9.0,Melaleuca Forests and Woodlands,12.0,North Australian Tropical Savanna Woodlands
+197,9.0,Melaleuca Forests and Woodlands,13.0,North Eastern Australia Tropical Rainforests
+198,9.0,Melaleuca Forests and Woodlands,14.0,South Eastern Australia Mallee Woodlands
+199,9.0,Melaleuca Forests and Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+200,9.0,Melaleuca Forests and Woodlands,16.0,South Eastern Australia Temperate Woodlands
+201,9.0,Melaleuca Forests and Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+202,9.0,Melaleuca Forests and Woodlands,18.0,South Western Australia Temperate Forests
+203,9.0,Melaleuca Forests and Woodlands,19.0,South Western Australia Temperate Woodlands
+204,9.0,Melaleuca Forests and Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+205,9.0,Melaleuca Forests and Woodlands,21.0,Tasman Temperate Forests
+206,9.0,Melaleuca Forests and Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+207,9.0,Melaleuca Forests and Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+208,10.0,Other Forests and Woodlands,1.0,Arid Shrublands and Desert
+209,10.0,Other Forests and Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+210,10.0,Other Forests and Woodlands,3.0,Brigalow Woodlands
+211,10.0,Other Forests and Woodlands,4.0,South Western Australia Mallee Woodlands
+212,10.0,Other Forests and Woodlands,5.0,Eastern Australia Mulga Shrublands
+213,10.0,Other Forests and Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+214,10.0,Other Forests and Woodlands,7.0,Eastern Australia Woodlands
+215,10.0,Other Forests and Woodlands,8.0,Eastern Australia Tropical Rainforests
+216,10.0,Other Forests and Woodlands,9.0,Mitchell Grasslands
+217,10.0,Other Forests and Woodlands,10.0,South Australian Eucalypt Woodlands
+218,10.0,Other Forests and Woodlands,11.0,Naracoorte Woodlands
+219,10.0,Other Forests and Woodlands,12.0,North Australian Tropical Savanna Woodlands
+220,10.0,Other Forests and Woodlands,13.0,North Eastern Australia Tropical Rainforests
+221,10.0,Other Forests and Woodlands,14.0,South Eastern Australia Mallee Woodlands
+222,10.0,Other Forests and Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+223,10.0,Other Forests and Woodlands,16.0,South Eastern Australia Temperate Woodlands
+224,10.0,Other Forests and Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+225,10.0,Other Forests and Woodlands,18.0,South Western Australia Temperate Forests
+226,10.0,Other Forests and Woodlands,19.0,South Western Australia Temperate Woodlands
+227,10.0,Other Forests and Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+228,10.0,Other Forests and Woodlands,21.0,Tasman Temperate Forests
+229,10.0,Other Forests and Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+230,10.0,Other Forests and Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+231,11.0,Eucalypt Open Woodlands,1.0,Arid Shrublands and Desert
+232,11.0,Eucalypt Open Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+233,11.0,Eucalypt Open Woodlands,3.0,Brigalow Woodlands
+234,11.0,Eucalypt Open Woodlands,4.0,South Western Australia Mallee Woodlands
+235,11.0,Eucalypt Open Woodlands,5.0,Eastern Australia Mulga Shrublands
+236,11.0,Eucalypt Open Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+237,11.0,Eucalypt Open Woodlands,7.0,Eastern Australia Woodlands
+238,11.0,Eucalypt Open Woodlands,8.0,Eastern Australia Tropical Rainforests
+239,11.0,Eucalypt Open Woodlands,9.0,Mitchell Grasslands
+240,11.0,Eucalypt Open Woodlands,10.0,South Australian Eucalypt Woodlands
+241,11.0,Eucalypt Open Woodlands,11.0,Naracoorte Woodlands
+242,11.0,Eucalypt Open Woodlands,12.0,North Australian Tropical Savanna Woodlands
+243,11.0,Eucalypt Open Woodlands,13.0,North Eastern Australia Tropical Rainforests
+244,11.0,Eucalypt Open Woodlands,14.0,South Eastern Australia Mallee Woodlands
+245,11.0,Eucalypt Open Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+246,11.0,Eucalypt Open Woodlands,16.0,South Eastern Australia Temperate Woodlands
+247,11.0,Eucalypt Open Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+248,11.0,Eucalypt Open Woodlands,18.0,South Western Australia Temperate Forests
+249,11.0,Eucalypt Open Woodlands,19.0,South Western Australia Temperate Woodlands
+250,11.0,Eucalypt Open Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+251,11.0,Eucalypt Open Woodlands,21.0,Tasman Temperate Forests
+252,11.0,Eucalypt Open Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+253,11.0,Eucalypt Open Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+254,12.0,Tropical Eucalypt Woodlands/Grasslands,1.0,Arid Shrublands and Desert
+255,12.0,Tropical Eucalypt Woodlands/Grasslands,2.0,Australian Alps Montane Grasslands and Heathlands
+256,12.0,Tropical Eucalypt Woodlands/Grasslands,3.0,Brigalow Woodlands
+257,12.0,Tropical Eucalypt Woodlands/Grasslands,4.0,South Western Australia Mallee Woodlands
+258,12.0,Tropical Eucalypt Woodlands/Grasslands,5.0,Eastern Australia Mulga Shrublands
+259,12.0,Tropical Eucalypt Woodlands/Grasslands,6.0,Eastern Australia Temperate and Subtropical forests
+260,12.0,Tropical Eucalypt Woodlands/Grasslands,7.0,Eastern Australia Woodlands
+261,12.0,Tropical Eucalypt Woodlands/Grasslands,8.0,Eastern Australia Tropical Rainforests
+262,12.0,Tropical Eucalypt Woodlands/Grasslands,9.0,Mitchell Grasslands
+263,12.0,Tropical Eucalypt Woodlands/Grasslands,10.0,South Australian Eucalypt Woodlands
+264,12.0,Tropical Eucalypt Woodlands/Grasslands,11.0,Naracoorte Woodlands
+265,12.0,Tropical Eucalypt Woodlands/Grasslands,12.0,North Australian Tropical Savanna Woodlands
+266,12.0,Tropical Eucalypt Woodlands/Grasslands,13.0,North Eastern Australia Tropical Rainforests
+267,12.0,Tropical Eucalypt Woodlands/Grasslands,14.0,South Eastern Australia Mallee Woodlands
+268,12.0,Tropical Eucalypt Woodlands/Grasslands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+269,12.0,Tropical Eucalypt Woodlands/Grasslands,16.0,South Eastern Australia Temperate Woodlands
+270,12.0,Tropical Eucalypt Woodlands/Grasslands,17.0,Esperance Coastal Shrublands and Mallee
+271,12.0,Tropical Eucalypt Woodlands/Grasslands,18.0,South Western Australia Temperate Forests
+272,12.0,Tropical Eucalypt Woodlands/Grasslands,19.0,South Western Australia Temperate Woodlands
+273,12.0,Tropical Eucalypt Woodlands/Grasslands,20.0,Swan Coastal Plain Shrublands and Woodlands
+274,12.0,Tropical Eucalypt Woodlands/Grasslands,21.0,Tasman Temperate Forests
+275,12.0,Tropical Eucalypt Woodlands/Grasslands,22.0,Western Australian Temperate Sandplain Woodlands
+276,12.0,Tropical Eucalypt Woodlands/Grasslands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+277,13.0,Acacia Open Woodlands,1.0,Arid Shrublands and Desert
+278,13.0,Acacia Open Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+279,13.0,Acacia Open Woodlands,3.0,Brigalow Woodlands
+280,13.0,Acacia Open Woodlands,4.0,South Western Australia Mallee Woodlands
+281,13.0,Acacia Open Woodlands,5.0,Eastern Australia Mulga Shrublands
+282,13.0,Acacia Open Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+283,13.0,Acacia Open Woodlands,7.0,Eastern Australia Woodlands
+284,13.0,Acacia Open Woodlands,8.0,Eastern Australia Tropical Rainforests
+285,13.0,Acacia Open Woodlands,9.0,Mitchell Grasslands
+286,13.0,Acacia Open Woodlands,10.0,South Australian Eucalypt Woodlands
+287,13.0,Acacia Open Woodlands,11.0,Naracoorte Woodlands
+288,13.0,Acacia Open Woodlands,12.0,North Australian Tropical Savanna Woodlands
+289,13.0,Acacia Open Woodlands,13.0,North Eastern Australia Tropical Rainforests
+290,13.0,Acacia Open Woodlands,14.0,South Eastern Australia Mallee Woodlands
+291,13.0,Acacia Open Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+292,13.0,Acacia Open Woodlands,16.0,South Eastern Australia Temperate Woodlands
+293,13.0,Acacia Open Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+294,13.0,Acacia Open Woodlands,18.0,South Western Australia Temperate Forests
+295,13.0,Acacia Open Woodlands,19.0,South Western Australia Temperate Woodlands
+296,13.0,Acacia Open Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+297,13.0,Acacia Open Woodlands,21.0,Tasman Temperate Forests
+298,13.0,Acacia Open Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+299,13.0,Acacia Open Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+300,14.0,Mallee Woodlands and Shrublands,1.0,Arid Shrublands and Desert
+301,14.0,Mallee Woodlands and Shrublands,2.0,Australian Alps Montane Grasslands and Heathlands
+302,14.0,Mallee Woodlands and Shrublands,3.0,Brigalow Woodlands
+303,14.0,Mallee Woodlands and Shrublands,4.0,South Western Australia Mallee Woodlands
+304,14.0,Mallee Woodlands and Shrublands,5.0,Eastern Australia Mulga Shrublands
+305,14.0,Mallee Woodlands and Shrublands,6.0,Eastern Australia Temperate and Subtropical forests
+306,14.0,Mallee Woodlands and Shrublands,7.0,Eastern Australia Woodlands
+307,14.0,Mallee Woodlands and Shrublands,8.0,Eastern Australia Tropical Rainforests
+308,14.0,Mallee Woodlands and Shrublands,9.0,Mitchell Grasslands
+309,14.0,Mallee Woodlands and Shrublands,10.0,South Australian Eucalypt Woodlands
+310,14.0,Mallee Woodlands and Shrublands,11.0,Naracoorte Woodlands
+311,14.0,Mallee Woodlands and Shrublands,12.0,North Australian Tropical Savanna Woodlands
+312,14.0,Mallee Woodlands and Shrublands,13.0,North Eastern Australia Tropical Rainforests
+313,14.0,Mallee Woodlands and Shrublands,14.0,South Eastern Australia Mallee Woodlands
+314,14.0,Mallee Woodlands and Shrublands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+315,14.0,Mallee Woodlands and Shrublands,16.0,South Eastern Australia Temperate Woodlands
+316,14.0,Mallee Woodlands and Shrublands,17.0,Esperance Coastal Shrublands and Mallee
+317,14.0,Mallee Woodlands and Shrublands,18.0,South Western Australia Temperate Forests
+318,14.0,Mallee Woodlands and Shrublands,19.0,South Western Australia Temperate Woodlands
+319,14.0,Mallee Woodlands and Shrublands,20.0,Swan Coastal Plain Shrublands and Woodlands
+320,14.0,Mallee Woodlands and Shrublands,21.0,Tasman Temperate Forests
+321,14.0,Mallee Woodlands and Shrublands,22.0,Western Australian Temperate Sandplain Woodlands
+322,14.0,Mallee Woodlands and Shrublands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+323,15.0,Low Closed Forests and Tall Closed Shrublands,1.0,Arid Shrublands and Desert
+324,15.0,Low Closed Forests and Tall Closed Shrublands,2.0,Australian Alps Montane Grasslands and Heathlands
+325,15.0,Low Closed Forests and Tall Closed Shrublands,3.0,Brigalow Woodlands
+326,15.0,Low Closed Forests and Tall Closed Shrublands,4.0,South Western Australia Mallee Woodlands
+327,15.0,Low Closed Forests and Tall Closed Shrublands,5.0,Eastern Australia Mulga Shrublands
+328,15.0,Low Closed Forests and Tall Closed Shrublands,6.0,Eastern Australia Temperate and Subtropical forests
+329,15.0,Low Closed Forests and Tall Closed Shrublands,7.0,Eastern Australia Woodlands
+330,15.0,Low Closed Forests and Tall Closed Shrublands,8.0,Eastern Australia Tropical Rainforests
+331,15.0,Low Closed Forests and Tall Closed Shrublands,9.0,Mitchell Grasslands
+332,15.0,Low Closed Forests and Tall Closed Shrublands,10.0,South Australian Eucalypt Woodlands
+333,15.0,Low Closed Forests and Tall Closed Shrublands,11.0,Naracoorte Woodlands
+334,15.0,Low Closed Forests and Tall Closed Shrublands,12.0,North Australian Tropical Savanna Woodlands
+335,15.0,Low Closed Forests and Tall Closed Shrublands,13.0,North Eastern Australia Tropical Rainforests
+336,15.0,Low Closed Forests and Tall Closed Shrublands,14.0,South Eastern Australia Mallee Woodlands
+337,15.0,Low Closed Forests and Tall Closed Shrublands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+338,15.0,Low Closed Forests and Tall Closed Shrublands,16.0,South Eastern Australia Temperate Woodlands
+339,15.0,Low Closed Forests and Tall Closed Shrublands,17.0,Esperance Coastal Shrublands and Mallee
+340,15.0,Low Closed Forests and Tall Closed Shrublands,18.0,South Western Australia Temperate Forests
+341,15.0,Low Closed Forests and Tall Closed Shrublands,19.0,South Western Australia Temperate Woodlands
+342,15.0,Low Closed Forests and Tall Closed Shrublands,20.0,Swan Coastal Plain Shrublands and Woodlands
+343,15.0,Low Closed Forests and Tall Closed Shrublands,21.0,Tasman Temperate Forests
+344,15.0,Low Closed Forests and Tall Closed Shrublands,22.0,Western Australian Temperate Sandplain Woodlands
+345,15.0,Low Closed Forests and Tall Closed Shrublands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+346,16.0,Acacia Shrublands,1.0,Arid Shrublands and Desert
+347,16.0,Acacia Shrublands,2.0,Australian Alps Montane Grasslands and Heathlands
+348,16.0,Acacia Shrublands,3.0,Brigalow Woodlands
+349,16.0,Acacia Shrublands,4.0,South Western Australia Mallee Woodlands
+350,16.0,Acacia Shrublands,5.0,Eastern Australia Mulga Shrublands
+351,16.0,Acacia Shrublands,6.0,Eastern Australia Temperate and Subtropical forests
+352,16.0,Acacia Shrublands,7.0,Eastern Australia Woodlands
+353,16.0,Acacia Shrublands,8.0,Eastern Australia Tropical Rainforests
+354,16.0,Acacia Shrublands,9.0,Mitchell Grasslands
+355,16.0,Acacia Shrublands,10.0,South Australian Eucalypt Woodlands
+356,16.0,Acacia Shrublands,11.0,Naracoorte Woodlands
+357,16.0,Acacia Shrublands,12.0,North Australian Tropical Savanna Woodlands
+358,16.0,Acacia Shrublands,13.0,North Eastern Australia Tropical Rainforests
+359,16.0,Acacia Shrublands,14.0,South Eastern Australia Mallee Woodlands
+360,16.0,Acacia Shrublands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+361,16.0,Acacia Shrublands,16.0,South Eastern Australia Temperate Woodlands
+362,16.0,Acacia Shrublands,17.0,Esperance Coastal Shrublands and Mallee
+363,16.0,Acacia Shrublands,18.0,South Western Australia Temperate Forests
+364,16.0,Acacia Shrublands,19.0,South Western Australia Temperate Woodlands
+365,16.0,Acacia Shrublands,20.0,Swan Coastal Plain Shrublands and Woodlands
+366,16.0,Acacia Shrublands,21.0,Tasman Temperate Forests
+367,16.0,Acacia Shrublands,22.0,Western Australian Temperate Sandplain Woodlands
+368,16.0,Acacia Shrublands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+369,17.0,Other Shrublands,1.0,Arid Shrublands and Desert
+370,17.0,Other Shrublands,2.0,Australian Alps Montane Grasslands and Heathlands
+371,17.0,Other Shrublands,3.0,Brigalow Woodlands
+372,17.0,Other Shrublands,4.0,South Western Australia Mallee Woodlands
+373,17.0,Other Shrublands,5.0,Eastern Australia Mulga Shrublands
+374,17.0,Other Shrublands,6.0,Eastern Australia Temperate and Subtropical forests
+375,17.0,Other Shrublands,7.0,Eastern Australia Woodlands
+376,17.0,Other Shrublands,8.0,Eastern Australia Tropical Rainforests
+377,17.0,Other Shrublands,9.0,Mitchell Grasslands
+378,17.0,Other Shrublands,10.0,South Australian Eucalypt Woodlands
+379,17.0,Other Shrublands,11.0,Naracoorte Woodlands
+380,17.0,Other Shrublands,12.0,North Australian Tropical Savanna Woodlands
+381,17.0,Other Shrublands,13.0,North Eastern Australia Tropical Rainforests
+382,17.0,Other Shrublands,14.0,South Eastern Australia Mallee Woodlands
+383,17.0,Other Shrublands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+384,17.0,Other Shrublands,16.0,South Eastern Australia Temperate Woodlands
+385,17.0,Other Shrublands,17.0,Esperance Coastal Shrublands and Mallee
+386,17.0,Other Shrublands,18.0,South Western Australia Temperate Forests
+387,17.0,Other Shrublands,19.0,South Western Australia Temperate Woodlands
+388,17.0,Other Shrublands,20.0,Swan Coastal Plain Shrublands and Woodlands
+389,17.0,Other Shrublands,21.0,Tasman Temperate Forests
+390,17.0,Other Shrublands,22.0,Western Australian Temperate Sandplain Woodlands
+391,17.0,Other Shrublands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+392,18.0,Heathlands,1.0,Arid Shrublands and Desert
+393,18.0,Heathlands,2.0,Australian Alps Montane Grasslands and Heathlands
+394,18.0,Heathlands,3.0,Brigalow Woodlands
+395,18.0,Heathlands,4.0,South Western Australia Mallee Woodlands
+396,18.0,Heathlands,5.0,Eastern Australia Mulga Shrublands
+397,18.0,Heathlands,6.0,Eastern Australia Temperate and Subtropical forests
+398,18.0,Heathlands,7.0,Eastern Australia Woodlands
+399,18.0,Heathlands,8.0,Eastern Australia Tropical Rainforests
+400,18.0,Heathlands,9.0,Mitchell Grasslands
+401,18.0,Heathlands,10.0,South Australian Eucalypt Woodlands
+402,18.0,Heathlands,11.0,Naracoorte Woodlands
+403,18.0,Heathlands,12.0,North Australian Tropical Savanna Woodlands
+404,18.0,Heathlands,13.0,North Eastern Australia Tropical Rainforests
+405,18.0,Heathlands,14.0,South Eastern Australia Mallee Woodlands
+406,18.0,Heathlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+407,18.0,Heathlands,16.0,South Eastern Australia Temperate Woodlands
+408,18.0,Heathlands,17.0,Esperance Coastal Shrublands and Mallee
+409,18.0,Heathlands,18.0,South Western Australia Temperate Forests
+410,18.0,Heathlands,19.0,South Western Australia Temperate Woodlands
+411,18.0,Heathlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+412,18.0,Heathlands,21.0,Tasman Temperate Forests
+413,18.0,Heathlands,22.0,Western Australian Temperate Sandplain Woodlands
+414,18.0,Heathlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+415,19.0,Tussock Grasslands,1.0,Arid Shrublands and Desert
+416,19.0,Tussock Grasslands,2.0,Australian Alps Montane Grasslands and Heathlands
+417,19.0,Tussock Grasslands,3.0,Brigalow Woodlands
+418,19.0,Tussock Grasslands,4.0,South Western Australia Mallee Woodlands
+419,19.0,Tussock Grasslands,5.0,Eastern Australia Mulga Shrublands
+420,19.0,Tussock Grasslands,6.0,Eastern Australia Temperate and Subtropical forests
+421,19.0,Tussock Grasslands,7.0,Eastern Australia Woodlands
+422,19.0,Tussock Grasslands,8.0,Eastern Australia Tropical Rainforests
+423,19.0,Tussock Grasslands,9.0,Mitchell Grasslands
+424,19.0,Tussock Grasslands,10.0,South Australian Eucalypt Woodlands
+425,19.0,Tussock Grasslands,11.0,Naracoorte Woodlands
+426,19.0,Tussock Grasslands,12.0,North Australian Tropical Savanna Woodlands
+427,19.0,Tussock Grasslands,13.0,North Eastern Australia Tropical Rainforests
+428,19.0,Tussock Grasslands,14.0,South Eastern Australia Mallee Woodlands
+429,19.0,Tussock Grasslands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+430,19.0,Tussock Grasslands,16.0,South Eastern Australia Temperate Woodlands
+431,19.0,Tussock Grasslands,17.0,Esperance Coastal Shrublands and Mallee
+432,19.0,Tussock Grasslands,18.0,South Western Australia Temperate Forests
+433,19.0,Tussock Grasslands,19.0,South Western Australia Temperate Woodlands
+434,19.0,Tussock Grasslands,20.0,Swan Coastal Plain Shrublands and Woodlands
+435,19.0,Tussock Grasslands,21.0,Tasman Temperate Forests
+436,19.0,Tussock Grasslands,22.0,Western Australian Temperate Sandplain Woodlands
+437,19.0,Tussock Grasslands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+438,20.0,Hummock Grasslands,1.0,Arid Shrublands and Desert
+439,20.0,Hummock Grasslands,2.0,Australian Alps Montane Grasslands and Heathlands
+440,20.0,Hummock Grasslands,3.0,Brigalow Woodlands
+441,20.0,Hummock Grasslands,4.0,South Western Australia Mallee Woodlands
+442,20.0,Hummock Grasslands,5.0,Eastern Australia Mulga Shrublands
+443,20.0,Hummock Grasslands,6.0,Eastern Australia Temperate and Subtropical forests
+444,20.0,Hummock Grasslands,7.0,Eastern Australia Woodlands
+445,20.0,Hummock Grasslands,8.0,Eastern Australia Tropical Rainforests
+446,20.0,Hummock Grasslands,9.0,Mitchell Grasslands
+447,20.0,Hummock Grasslands,10.0,South Australian Eucalypt Woodlands
+448,20.0,Hummock Grasslands,11.0,Naracoorte Woodlands
+449,20.0,Hummock Grasslands,12.0,North Australian Tropical Savanna Woodlands
+450,20.0,Hummock Grasslands,13.0,North Eastern Australia Tropical Rainforests
+451,20.0,Hummock Grasslands,14.0,South Eastern Australia Mallee Woodlands
+452,20.0,Hummock Grasslands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+453,20.0,Hummock Grasslands,16.0,South Eastern Australia Temperate Woodlands
+454,20.0,Hummock Grasslands,17.0,Esperance Coastal Shrublands and Mallee
+455,20.0,Hummock Grasslands,18.0,South Western Australia Temperate Forests
+456,20.0,Hummock Grasslands,19.0,South Western Australia Temperate Woodlands
+457,20.0,Hummock Grasslands,20.0,Swan Coastal Plain Shrublands and Woodlands
+458,20.0,Hummock Grasslands,21.0,Tasman Temperate Forests
+459,20.0,Hummock Grasslands,22.0,Western Australian Temperate Sandplain Woodlands
+460,20.0,Hummock Grasslands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+461,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",1.0,Arid Shrublands and Desert
+462,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",2.0,Australian Alps Montane Grasslands and Heathlands
+463,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",3.0,Brigalow Woodlands
+464,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",4.0,South Western Australia Mallee Woodlands
+465,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",5.0,Eastern Australia Mulga Shrublands
+466,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",6.0,Eastern Australia Temperate and Subtropical forests
+467,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",7.0,Eastern Australia Woodlands
+468,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",8.0,Eastern Australia Tropical Rainforests
+469,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",9.0,Mitchell Grasslands
+470,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",10.0,South Australian Eucalypt Woodlands
+471,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",11.0,Naracoorte Woodlands
+472,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",12.0,North Australian Tropical Savanna Woodlands
+473,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",13.0,North Eastern Australia Tropical Rainforests
+474,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",14.0,South Eastern Australia Mallee Woodlands
+475,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+476,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",16.0,South Eastern Australia Temperate Woodlands
+477,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",17.0,Esperance Coastal Shrublands and Mallee
+478,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",18.0,South Western Australia Temperate Forests
+479,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",19.0,South Western Australia Temperate Woodlands
+480,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",20.0,Swan Coastal Plain Shrublands and Woodlands
+481,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",21.0,Tasman Temperate Forests
+482,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",22.0,Western Australian Temperate Sandplain Woodlands
+483,21.0,"Other Grasslands, Herblands, Sedgelands and Rushlands",23.0,Tasmanian Temperate Rainforests and Highland Forests
+484,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",1.0,Arid Shrublands and Desert
+485,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",2.0,Australian Alps Montane Grasslands and Heathlands
+486,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",3.0,Brigalow Woodlands
+487,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",4.0,South Western Australia Mallee Woodlands
+488,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",5.0,Eastern Australia Mulga Shrublands
+489,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",6.0,Eastern Australia Temperate and Subtropical forests
+490,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",7.0,Eastern Australia Woodlands
+491,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",8.0,Eastern Australia Tropical Rainforests
+492,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",9.0,Mitchell Grasslands
+493,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",10.0,South Australian Eucalypt Woodlands
+494,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",11.0,Naracoorte Woodlands
+495,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",12.0,North Australian Tropical Savanna Woodlands
+496,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",13.0,North Eastern Australia Tropical Rainforests
+497,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",14.0,South Eastern Australia Mallee Woodlands
+498,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+499,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",16.0,South Eastern Australia Temperate Woodlands
+500,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",17.0,Esperance Coastal Shrublands and Mallee
+501,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",18.0,South Western Australia Temperate Forests
+502,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",19.0,South Western Australia Temperate Woodlands
+503,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",20.0,Swan Coastal Plain Shrublands and Woodlands
+504,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",21.0,Tasman Temperate Forests
+505,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",22.0,Western Australian Temperate Sandplain Woodlands
+506,22.0,"Chenopod Shrublands, Samphire Shrublands and Forblands",23.0,Tasmanian Temperate Rainforests and Highland Forests
+507,23.0,Mangroves,1.0,Arid Shrublands and Desert
+508,23.0,Mangroves,2.0,Australian Alps Montane Grasslands and Heathlands
+509,23.0,Mangroves,3.0,Brigalow Woodlands
+510,23.0,Mangroves,4.0,South Western Australia Mallee Woodlands
+511,23.0,Mangroves,5.0,Eastern Australia Mulga Shrublands
+512,23.0,Mangroves,6.0,Eastern Australia Temperate and Subtropical forests
+513,23.0,Mangroves,7.0,Eastern Australia Woodlands
+514,23.0,Mangroves,8.0,Eastern Australia Tropical Rainforests
+515,23.0,Mangroves,9.0,Mitchell Grasslands
+516,23.0,Mangroves,10.0,South Australian Eucalypt Woodlands
+517,23.0,Mangroves,11.0,Naracoorte Woodlands
+518,23.0,Mangroves,12.0,North Australian Tropical Savanna Woodlands
+519,23.0,Mangroves,13.0,North Eastern Australia Tropical Rainforests
+520,23.0,Mangroves,14.0,South Eastern Australia Mallee Woodlands
+521,23.0,Mangroves,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+522,23.0,Mangroves,16.0,South Eastern Australia Temperate Woodlands
+523,23.0,Mangroves,17.0,Esperance Coastal Shrublands and Mallee
+524,23.0,Mangroves,18.0,South Western Australia Temperate Forests
+525,23.0,Mangroves,19.0,South Western Australia Temperate Woodlands
+526,23.0,Mangroves,20.0,Swan Coastal Plain Shrublands and Woodlands
+527,23.0,Mangroves,21.0,Tasman Temperate Forests
+528,23.0,Mangroves,22.0,Western Australian Temperate Sandplain Woodlands
+529,23.0,Mangroves,23.0,Tasmanian Temperate Rainforests and Highland Forests
+530,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",1.0,Arid Shrublands and Desert
+531,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",2.0,Australian Alps Montane Grasslands and Heathlands
+532,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",3.0,Brigalow Woodlands
+533,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",4.0,South Western Australia Mallee Woodlands
+534,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",5.0,Eastern Australia Mulga Shrublands
+535,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",6.0,Eastern Australia Temperate and Subtropical forests
+536,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",7.0,Eastern Australia Woodlands
+537,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",8.0,Eastern Australia Tropical Rainforests
+538,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",9.0,Mitchell Grasslands
+539,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",10.0,South Australian Eucalypt Woodlands
+540,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",11.0,Naracoorte Woodlands
+541,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",12.0,North Australian Tropical Savanna Woodlands
+542,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",13.0,North Eastern Australia Tropical Rainforests
+543,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",14.0,South Eastern Australia Mallee Woodlands
+544,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+545,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",16.0,South Eastern Australia Temperate Woodlands
+546,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",17.0,Esperance Coastal Shrublands and Mallee
+547,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",18.0,South Western Australia Temperate Forests
+548,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",19.0,South Western Australia Temperate Woodlands
+549,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",20.0,Swan Coastal Plain Shrublands and Woodlands
+550,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",21.0,Tasman Temperate Forests
+551,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",22.0,Western Australian Temperate Sandplain Woodlands
+552,24.0,"Inland Aquatic - freshwater, salt lakes, lagoons",23.0,Tasmanian Temperate Rainforests and Highland Forests
+553,26.0,Unclassified native vegetation,1.0,Arid Shrublands and Desert
+554,26.0,Unclassified native vegetation,2.0,Australian Alps Montane Grasslands and Heathlands
+555,26.0,Unclassified native vegetation,3.0,Brigalow Woodlands
+556,26.0,Unclassified native vegetation,4.0,South Western Australia Mallee Woodlands
+557,26.0,Unclassified native vegetation,5.0,Eastern Australia Mulga Shrublands
+558,26.0,Unclassified native vegetation,6.0,Eastern Australia Temperate and Subtropical forests
+559,26.0,Unclassified native vegetation,7.0,Eastern Australia Woodlands
+560,26.0,Unclassified native vegetation,8.0,Eastern Australia Tropical Rainforests
+561,26.0,Unclassified native vegetation,9.0,Mitchell Grasslands
+562,26.0,Unclassified native vegetation,10.0,South Australian Eucalypt Woodlands
+563,26.0,Unclassified native vegetation,11.0,Naracoorte Woodlands
+564,26.0,Unclassified native vegetation,12.0,North Australian Tropical Savanna Woodlands
+565,26.0,Unclassified native vegetation,13.0,North Eastern Australia Tropical Rainforests
+566,26.0,Unclassified native vegetation,14.0,South Eastern Australia Mallee Woodlands
+567,26.0,Unclassified native vegetation,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+568,26.0,Unclassified native vegetation,16.0,South Eastern Australia Temperate Woodlands
+569,26.0,Unclassified native vegetation,17.0,Esperance Coastal Shrublands and Mallee
+570,26.0,Unclassified native vegetation,18.0,South Western Australia Temperate Forests
+571,26.0,Unclassified native vegetation,19.0,South Western Australia Temperate Woodlands
+572,26.0,Unclassified native vegetation,20.0,Swan Coastal Plain Shrublands and Woodlands
+573,26.0,Unclassified native vegetation,21.0,Tasman Temperate Forests
+574,26.0,Unclassified native vegetation,22.0,Western Australian Temperate Sandplain Woodlands
+575,26.0,Unclassified native vegetation,23.0,Tasmanian Temperate Rainforests and Highland Forests
+576,27.0,"Naturally bare - sand, rock, claypan, mudflat",1.0,Arid Shrublands and Desert
+577,27.0,"Naturally bare - sand, rock, claypan, mudflat",2.0,Australian Alps Montane Grasslands and Heathlands
+578,27.0,"Naturally bare - sand, rock, claypan, mudflat",3.0,Brigalow Woodlands
+579,27.0,"Naturally bare - sand, rock, claypan, mudflat",4.0,South Western Australia Mallee Woodlands
+580,27.0,"Naturally bare - sand, rock, claypan, mudflat",5.0,Eastern Australia Mulga Shrublands
+581,27.0,"Naturally bare - sand, rock, claypan, mudflat",6.0,Eastern Australia Temperate and Subtropical forests
+582,27.0,"Naturally bare - sand, rock, claypan, mudflat",7.0,Eastern Australia Woodlands
+583,27.0,"Naturally bare - sand, rock, claypan, mudflat",8.0,Eastern Australia Tropical Rainforests
+584,27.0,"Naturally bare - sand, rock, claypan, mudflat",9.0,Mitchell Grasslands
+585,27.0,"Naturally bare - sand, rock, claypan, mudflat",10.0,South Australian Eucalypt Woodlands
+586,27.0,"Naturally bare - sand, rock, claypan, mudflat",11.0,Naracoorte Woodlands
+587,27.0,"Naturally bare - sand, rock, claypan, mudflat",12.0,North Australian Tropical Savanna Woodlands
+588,27.0,"Naturally bare - sand, rock, claypan, mudflat",13.0,North Eastern Australia Tropical Rainforests
+589,27.0,"Naturally bare - sand, rock, claypan, mudflat",14.0,South Eastern Australia Mallee Woodlands
+590,27.0,"Naturally bare - sand, rock, claypan, mudflat",15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+591,27.0,"Naturally bare - sand, rock, claypan, mudflat",16.0,South Eastern Australia Temperate Woodlands
+592,27.0,"Naturally bare - sand, rock, claypan, mudflat",17.0,Esperance Coastal Shrublands and Mallee
+593,27.0,"Naturally bare - sand, rock, claypan, mudflat",18.0,South Western Australia Temperate Forests
+594,27.0,"Naturally bare - sand, rock, claypan, mudflat",19.0,South Western Australia Temperate Woodlands
+595,27.0,"Naturally bare - sand, rock, claypan, mudflat",20.0,Swan Coastal Plain Shrublands and Woodlands
+596,27.0,"Naturally bare - sand, rock, claypan, mudflat",21.0,Tasman Temperate Forests
+597,27.0,"Naturally bare - sand, rock, claypan, mudflat",22.0,Western Australian Temperate Sandplain Woodlands
+598,27.0,"Naturally bare - sand, rock, claypan, mudflat",23.0,Tasmanian Temperate Rainforests and Highland Forests
+599,28.0,Sea and estuaries,1.0,Arid Shrublands and Desert
+600,28.0,Sea and estuaries,2.0,Australian Alps Montane Grasslands and Heathlands
+601,28.0,Sea and estuaries,3.0,Brigalow Woodlands
+602,28.0,Sea and estuaries,4.0,South Western Australia Mallee Woodlands
+603,28.0,Sea and estuaries,5.0,Eastern Australia Mulga Shrublands
+604,28.0,Sea and estuaries,6.0,Eastern Australia Temperate and Subtropical forests
+605,28.0,Sea and estuaries,7.0,Eastern Australia Woodlands
+606,28.0,Sea and estuaries,8.0,Eastern Australia Tropical Rainforests
+607,28.0,Sea and estuaries,9.0,Mitchell Grasslands
+608,28.0,Sea and estuaries,10.0,South Australian Eucalypt Woodlands
+609,28.0,Sea and estuaries,11.0,Naracoorte Woodlands
+610,28.0,Sea and estuaries,12.0,North Australian Tropical Savanna Woodlands
+611,28.0,Sea and estuaries,13.0,North Eastern Australia Tropical Rainforests
+612,28.0,Sea and estuaries,14.0,South Eastern Australia Mallee Woodlands
+613,28.0,Sea and estuaries,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+614,28.0,Sea and estuaries,16.0,South Eastern Australia Temperate Woodlands
+615,28.0,Sea and estuaries,17.0,Esperance Coastal Shrublands and Mallee
+616,28.0,Sea and estuaries,18.0,South Western Australia Temperate Forests
+617,28.0,Sea and estuaries,19.0,South Western Australia Temperate Woodlands
+618,28.0,Sea and estuaries,20.0,Swan Coastal Plain Shrublands and Woodlands
+619,28.0,Sea and estuaries,21.0,Tasman Temperate Forests
+620,28.0,Sea and estuaries,22.0,Western Australian Temperate Sandplain Woodlands
+621,28.0,Sea and estuaries,23.0,Tasmanian Temperate Rainforests and Highland Forests
+622,30.0,Unclassified forest,1.0,Arid Shrublands and Desert
+623,30.0,Unclassified forest,2.0,Australian Alps Montane Grasslands and Heathlands
+624,30.0,Unclassified forest,3.0,Brigalow Woodlands
+625,30.0,Unclassified forest,4.0,South Western Australia Mallee Woodlands
+626,30.0,Unclassified forest,5.0,Eastern Australia Mulga Shrublands
+627,30.0,Unclassified forest,6.0,Eastern Australia Temperate and Subtropical forests
+628,30.0,Unclassified forest,7.0,Eastern Australia Woodlands
+629,30.0,Unclassified forest,8.0,Eastern Australia Tropical Rainforests
+630,30.0,Unclassified forest,9.0,Mitchell Grasslands
+631,30.0,Unclassified forest,10.0,South Australian Eucalypt Woodlands
+632,30.0,Unclassified forest,11.0,Naracoorte Woodlands
+633,30.0,Unclassified forest,12.0,North Australian Tropical Savanna Woodlands
+634,30.0,Unclassified forest,13.0,North Eastern Australia Tropical Rainforests
+635,30.0,Unclassified forest,14.0,South Eastern Australia Mallee Woodlands
+636,30.0,Unclassified forest,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+637,30.0,Unclassified forest,16.0,South Eastern Australia Temperate Woodlands
+638,30.0,Unclassified forest,17.0,Esperance Coastal Shrublands and Mallee
+639,30.0,Unclassified forest,18.0,South Western Australia Temperate Forests
+640,30.0,Unclassified forest,19.0,South Western Australia Temperate Woodlands
+641,30.0,Unclassified forest,20.0,Swan Coastal Plain Shrublands and Woodlands
+642,30.0,Unclassified forest,21.0,Tasman Temperate Forests
+643,30.0,Unclassified forest,22.0,Western Australian Temperate Sandplain Woodlands
+644,30.0,Unclassified forest,23.0,Tasmanian Temperate Rainforests and Highland Forests
+645,31.0,Other Open Woodlands,1.0,Arid Shrublands and Desert
+646,31.0,Other Open Woodlands,2.0,Australian Alps Montane Grasslands and Heathlands
+647,31.0,Other Open Woodlands,3.0,Brigalow Woodlands
+648,31.0,Other Open Woodlands,4.0,South Western Australia Mallee Woodlands
+649,31.0,Other Open Woodlands,5.0,Eastern Australia Mulga Shrublands
+650,31.0,Other Open Woodlands,6.0,Eastern Australia Temperate and Subtropical forests
+651,31.0,Other Open Woodlands,7.0,Eastern Australia Woodlands
+652,31.0,Other Open Woodlands,8.0,Eastern Australia Tropical Rainforests
+653,31.0,Other Open Woodlands,9.0,Mitchell Grasslands
+654,31.0,Other Open Woodlands,10.0,South Australian Eucalypt Woodlands
+655,31.0,Other Open Woodlands,11.0,Naracoorte Woodlands
+656,31.0,Other Open Woodlands,12.0,North Australian Tropical Savanna Woodlands
+657,31.0,Other Open Woodlands,13.0,North Eastern Australia Tropical Rainforests
+658,31.0,Other Open Woodlands,14.0,South Eastern Australia Mallee Woodlands
+659,31.0,Other Open Woodlands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+660,31.0,Other Open Woodlands,16.0,South Eastern Australia Temperate Woodlands
+661,31.0,Other Open Woodlands,17.0,Esperance Coastal Shrublands and Mallee
+662,31.0,Other Open Woodlands,18.0,South Western Australia Temperate Forests
+663,31.0,Other Open Woodlands,19.0,South Western Australia Temperate Woodlands
+664,31.0,Other Open Woodlands,20.0,Swan Coastal Plain Shrublands and Woodlands
+665,31.0,Other Open Woodlands,21.0,Tasman Temperate Forests
+666,31.0,Other Open Woodlands,22.0,Western Australian Temperate Sandplain Woodlands
+667,31.0,Other Open Woodlands,23.0,Tasmanian Temperate Rainforests and Highland Forests
+668,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,1.0,Arid Shrublands and Desert
+669,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,2.0,Australian Alps Montane Grasslands and Heathlands
+670,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,3.0,Brigalow Woodlands
+671,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,4.0,South Western Australia Mallee Woodlands
+672,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,5.0,Eastern Australia Mulga Shrublands
+673,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,6.0,Eastern Australia Temperate and Subtropical forests
+674,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,7.0,Eastern Australia Woodlands
+675,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,8.0,Eastern Australia Tropical Rainforests
+676,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,9.0,Mitchell Grasslands
+677,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,10.0,South Australian Eucalypt Woodlands
+678,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,11.0,Naracoorte Woodlands
+679,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,12.0,North Australian Tropical Savanna Woodlands
+680,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,13.0,North Eastern Australia Tropical Rainforests
+681,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,14.0,South Eastern Australia Mallee Woodlands
+682,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,15.0,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+683,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,16.0,South Eastern Australia Temperate Woodlands
+684,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,17.0,Esperance Coastal Shrublands and Mallee
+685,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,18.0,South Western Australia Temperate Forests
+686,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,19.0,South Western Australia Temperate Woodlands
+687,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,20.0,Swan Coastal Plain Shrublands and Woodlands
+688,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,21.0,Tasman Temperate Forests
+689,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,22.0,Western Australian Temperate Sandplain Woodlands
+690,32.0,Mallee Open Woodlands and Sparse Mallee Shrublands,23.0,Tasmanian Temperate Rainforests and Highland Forests

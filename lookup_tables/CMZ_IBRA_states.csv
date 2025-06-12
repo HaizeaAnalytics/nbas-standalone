@@ -1,0 +1,500 @@
+STA_CODE,STATE_CODE,SUB_CODE_7,SUB_NAME_7,REG_CODE_7,REG_NAME_7,CMZ_ID,CM_ZONE
+ACT,1,AUA01,Snowy Mountains,AUA,Australian Alps,2,Australian Alps Montane Grasslands and Heathlands
+ACT,1,SEH06,Murrumbateman,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+ACT,1,SEH14,Bondo,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+ACT,1,SEH16,Monaro,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+JBT,2,SYB14,Jervis,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,AUA01,Snowy Mountains,AUA,Australian Alps,2,Australian Alps Montane Grasslands and Heathlands
+NSW,3,BBS18,Inglewood Sandstones,BBS,Brigalow Belt South,3,Brigalow Woodlands
+NSW,3,BBS20,Moonie-Barwon Interfluve,BBS,Brigalow Belt South,3,Brigalow Woodlands
+NSW,3,BBS21,Northern Basalts,BBS,Brigalow Belt South,3,Brigalow Woodlands
+NSW,3,BBS22,Northern Outwash,BBS,Brigalow Belt South,3,Brigalow Woodlands
+NSW,3,BBS23,Pilliga Outwash,BBS,Brigalow Belt South,7,Eastern Australia Woodlands
+NSW,3,BBS24,Pilliga,BBS,Brigalow Belt South,3,Brigalow Woodlands
+NSW,3,BBS25,Liverpool Plains,BBS,Brigalow Belt South,3,Brigalow Woodlands
+NSW,3,BBS26,Liverpool Range,BBS,Brigalow Belt South,3,Brigalow Woodlands
+NSW,3,BBS27,Talbragar Valley,BBS,Brigalow Belt South,3,Brigalow Woodlands
+NSW,3,BBS28,Narrandool,BBS,Brigalow Belt South,7,Eastern Australia Woodlands
+NSW,3,BHC01,Barrier Range,BHC,Broken Hill Complex,1,Arid Shrublands and Desert
+NSW,3,BHC02,Mootwingee Downs,BHC,Broken Hill Complex,1,Arid Shrublands and Desert
+NSW,3,BHC03,Scopes Range,BHC,Broken Hill Complex,1,Arid Shrublands and Desert
+NSW,3,BHC04,Barrier Range Outwash,BHC,Broken Hill Complex,1,Arid Shrublands and Desert
+NSW,3,CHC02,Sturt Stony Desert,CHC,Channel Country,1,Arid Shrublands and Desert
+NSW,3,CHC10,Core Ranges,CHC,Channel Country,1,Arid Shrublands and Desert
+NSW,3,CHC11,Bulloo,CHC,Channel Country,1,Arid Shrublands and Desert
+NSW,3,CHC12,Bulloo Dunefields,CHC,Channel Country,1,Arid Shrublands and Desert
+NSW,3,CHC13,Central Depression,CHC,Channel Country,1,Arid Shrublands and Desert
+NSW,3,COP01,Boorindal Plains,COP,Cobar Peneplain,5,Eastern Australia Mulga Shrublands
+NSW,3,COP02,Barnato Downs,COP,Cobar Peneplain,14,South Eastern Australia Mallee Woodlands
+NSW,3,COP03,Canbelego Downs,COP,Cobar Peneplain,16,South Eastern Australia Temperate Woodlands
+NSW,3,COP04,Nymagee,COP,Cobar Peneplain,16,South Eastern Australia Temperate Woodlands
+NSW,3,COP05,Lachlan Plains,COP,Cobar Peneplain,16,South Eastern Australia Temperate Woodlands
+NSW,3,DRP01,Culgoa-Bokhara,DRP,Darling Riverine Plains,7,Eastern Australia Woodlands
+NSW,3,DRP02,Warrambool-Moonie,DRP,Darling Riverine Plains,7,Eastern Australia Woodlands
+NSW,3,DRP03,Castlereagh-Barwon,DRP,Darling Riverine Plains,7,Eastern Australia Woodlands
+NSW,3,DRP04,Bogan-Macquarie,DRP,Darling Riverine Plains,7,Eastern Australia Woodlands
+NSW,3,DRP05,Louth Plains,DRP,Darling Riverine Plains,5,Eastern Australia Mulga Shrublands
+NSW,3,DRP06,Wilcannia Plains,DRP,Darling Riverine Plains,5,Eastern Australia Mulga Shrublands
+NSW,3,DRP07,Menindee,DRP,Darling Riverine Plains,14,South Eastern Australia Mallee Woodlands
+NSW,3,DRP08,Great Darling Anabranch,DRP,Darling Riverine Plains,14,South Eastern Australia Mallee Woodlands
+NSW,3,DRP09,Pooncarie-Darling,DRP,Darling Riverine Plains,14,South Eastern Australia Mallee Woodlands
+NSW,3,MDD01,South Olary Plain,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+NSW,3,MDD02,Murray Mallee,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+NSW,3,MDD06,Darling Depression,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+NSW,3,MDD07,Braemer,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+NSW,3,MUL03,Nebine Plains,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL05,Warrego Plains,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL07,Cuttaburra-Paroo,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL08,West Warrego,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL11,Urisino Sandplains,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL12,Warrego Sands,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL13,Kerribree Basin,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL14,White Cliffs Plateau,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL15,Paroo Overflow,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,MUL16,Paroo-Darling Sands,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+NSW,3,NAN01,Nandewar Northern Complex,NAN,Nandewar,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NAN02,Inverell Basalts,NAN,Nandewar,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NAN03,Kaputar,NAN,Nandewar,3,Brigalow Woodlands
+NSW,3,NAN04,Peel,NAN,Nandewar,3,Brigalow Woodlands
+NSW,3,NET01,Bundarra Downs,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET02,Beardy River Hills,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET03,Walcha Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET04,Armidale Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET05,Wongwibinda Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET06,Deepwater Downs,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET07,Glenn Innes-Guyra Basalts,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET08,Ebor Basalts,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET09,Moredun Volcanics,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET10,Severn River Volcanics,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET11,Northeast Forest Lands,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET12,Tenterfield Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET13,Yarrowyck-Kentucky Downs,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET14,Binghi Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET15,Stanthorpe Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET16,Eastern Nandewars,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET17,Tingha Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET18,Nightcap,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NET19,Round Mountain,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC01,Washpool,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC02,Cataract,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC03,Dalmorton,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC04,Chaelundi,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC05,Yuraygir,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC06,Coffs Coast and Escarpment,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC07,Macleay Hastings,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC08,Carrai Plateau,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC09,Macleay Gorges,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC10,Upper Manning,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC11,Comboyne Plateau,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC12,Mummel Escarpment,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC13,Barrington,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC14,Tomalla,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC15,Ellerston,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC16,Upper Hunter,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC17,Karuah Manning,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC18,Rocky River Gorge,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NNC19,Guy Fawkes,NNC,NSW North Coast,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,NSS01,Inland Slopes,NSS,NSW South Western Slopes,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,NSS02,Lower Slopes,NSS,NSW South Western Slopes,16,South Eastern Australia Temperate Woodlands
+NSW,3,NSS03,Capertee Valley,NSS,NSW South Western Slopes,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,RIV01,Lachlan,RIV,Riverina,16,South Eastern Australia Temperate Woodlands
+NSW,3,RIV02,Murrumbidgee,RIV,Riverina,16,South Eastern Australia Temperate Woodlands
+NSW,3,RIV03,Murray Fans,RIV,Riverina,16,South Eastern Australia Temperate Woodlands
+NSW,3,RIV05,Robinvale Plains,RIV,Riverina,16,South Eastern Australia Temperate Woodlands
+NSW,3,RIV06,Murray Scroll Belt,RIV,Riverina,14,South Eastern Australia Mallee Woodlands
+NSW,3,SEC01,East Gippsland Lowlands,SEC,South East Corner,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEC02,South East Coastal Ranges,SEC,South East Corner,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEC03,Bateman,SEC,South East Corner,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH02,Highlands-Northern Fall,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH06,Murrumbateman,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH07,Bungonia,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH08,Kanangra,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH09,Crookwell,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH10,Oberon,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH11,Bathurst,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH12,Orange,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH13,Hill End,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH14,Bondo,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH15,Kybeyan-Gourock,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH16,Monaro,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEH17,Capertee Uplands,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SEQ03,Burringbar-Conondale Ranges,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SEQ04,Sunshine Coast-Gold Coast Lowlands,SEQ,South Eastern Queensland,8,Eastern Australia Tropical Rainforests
+NSW,3,SEQ10,Scenic Rim,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SEQ11,Woodenbong,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SEQ12,Clarence Sandstones,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SEQ13,Clarence Lowlands,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SSD05,Strzelecki Desert,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+NSW,3,SYB01,Kerrabee,SYB,Sydney Basin,3,Brigalow Woodlands
+NSW,3,SYB01,Kerrabee,SYB,Sydney Basin,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+NSW,3,SYB02,Hunter,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB04,Wollemi,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB05,Yengo,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB06,Wyong,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB07,Pittwater,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB08,Cumberland,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB09,Burragorang,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB10,Sydney Cataract,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB11,Moss Vale,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB12,Illawarra,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB13,Ettrema,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NSW,3,SYB14,Jervis,SYB,Sydney Basin,6,Eastern Australia Temperate and Subtropical forests
+NT,4,ARC01,Murgenella,ARC,Arnhem Coast,12,North Australian Tropical Savanna Woodlands
+NT,4,ARC02,Maningrida,ARC,Arnhem Coast,12,North Australian Tropical Savanna Woodlands
+NT,4,ARC03,Nhulunbuy,ARC,Arnhem Coast,12,North Australian Tropical Savanna Woodlands
+NT,4,ARC04,Groote,ARC,Arnhem Coast,12,North Australian Tropical Savanna Woodlands
+NT,4,ARC05,Wessels,ARC,Arnhem Coast,12,North Australian Tropical Savanna Woodlands
+NT,4,ARP01,Alligator,ARP,Arnhem Plateau,12,North Australian Tropical Savanna Woodlands
+NT,4,ARP02,Mainoru,ARP,Arnhem Plateau,12,North Australian Tropical Savanna Woodlands
+NT,4,BRT01,Yuendumu,BRT,Burt Plain,1,Arid Shrublands and Desert
+NT,4,BRT02,Atartinga,BRT,Burt Plain,1,Arid Shrublands and Desert
+NT,4,BRT03,Mount Chapple,BRT,Burt Plain,1,Arid Shrublands and Desert
+NT,4,BRT04,Dulcie,BRT,Burt Plain,1,Arid Shrublands and Desert
+NT,4,CEA01,Wilton,CEA,Central Arnhem,12,North Australian Tropical Savanna Woodlands
+NT,4,CEA02,Parson,CEA,Central Arnhem,12,North Australian Tropical Savanna Woodlands
+NT,4,CER01,Mann-Musgrave Block,CER,Central Ranges,1,Arid Shrublands and Desert
+NT,4,CHC01,Toko Plains,CHC,Channel Country,1,Arid Shrublands and Desert
+NT,4,CHC01,Toko Plains,CHC,Channel Country,9,Mitchell Grasslands
+NT,4,DAB01,Daly Basin,DAB,Daly Basin,12,North Australian Tropical Savanna Woodlands
+NT,4,DAC01,Darwin Coastal,DAC,Darwin Coastal,12,North Australian Tropical Savanna Woodlands
+NT,4,DMR01,Ashburton Range,DMR,Davenport Murchison Ranges,1,Arid Shrublands and Desert
+NT,4,DMR01,Ashburton Range,DMR,Davenport Murchison Ranges,9,Mitchell Grasslands
+NT,4,DMR02,Davenport,DMR,Davenport Murchison Ranges,1,Arid Shrublands and Desert
+NT,4,DMR03,Barkly,DMR,Davenport Murchison Ranges,1,Arid Shrublands and Desert
+NT,4,DMR03,Barkly,DMR,Davenport Murchison Ranges,9,Mitchell Grasslands
+NT,4,FIN01,Henbury,FIN,Finke,1,Arid Shrublands and Desert
+NT,4,FIN02,Finke River,FIN,Finke,1,Arid Shrublands and Desert
+NT,4,FIN03,Tieyon,FIN,Finke,1,Arid Shrublands and Desert
+NT,4,GFU01,McArthur,GFU,Gulf Fall and Uplands,12,North Australian Tropical Savanna Woodlands
+NT,4,GFU02,Nicholson,GFU,Gulf Fall and Uplands,12,North Australian Tropical Savanna Woodlands
+NT,4,GSD02,Mackay,GSD,Great Sandy Desert,1,Arid Shrublands and Desert
+NT,4,GSD03,Ehrenberg,GSD,Great Sandy Desert,1,Arid Shrublands and Desert
+NT,4,GSD04,Amedeus,GSD,Great Sandy Desert,1,Arid Shrublands and Desert
+NT,4,GSD05,Lake Bennett,GSD,Great Sandy Desert,1,Arid Shrublands and Desert
+NT,4,GSD06,Lake Lewis,GSD,Great Sandy Desert,1,Arid Shrublands and Desert
+NT,4,GUC01,Limmen,GUC,Gulf Coastal,12,North Australian Tropical Savanna Woodlands
+NT,4,GUC02,Pellews,GUC,Gulf Coastal,12,North Australian Tropical Savanna Woodlands
+NT,4,GUP07,Doomadgee Plains,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+NT,4,MAC01,McDonnell,MAC,MacDonnell Ranges,1,Arid Shrublands and Desert
+NT,4,MAC02,Watarrka,MAC,MacDonnell Ranges,1,Arid Shrublands and Desert
+NT,4,MAC03,Hartz Range,MAC,MacDonnell Ranges,1,Arid Shrublands and Desert
+NT,4,MGD01,Sylvester,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+NT,4,MGD02,Barkly Tableland,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+NT,4,MGD03,Georgina Limestone,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+NT,4,MII02,Thorntonia,MII,Mount Isa Inlier,9,Mitchell Grasslands
+NT,4,OVP01,Purnululu,OVP,Ord Victoria Plain,12,North Australian Tropical Savanna Woodlands
+NT,4,OVP02,South Kimberley Interzone,OVP,Ord Victoria Plain,12,North Australian Tropical Savanna Woodlands
+NT,4,OVP03,Gregory,OVP,Ord Victoria Plain,12,North Australian Tropical Savanna Woodlands
+NT,4,OVP04,Camfield,OVP,Ord Victoria Plain,12,North Australian Tropical Savanna Woodlands
+NT,4,PCK01,Pine Creek,PCK,Pine Creek,12,North Australian Tropical Savanna Woodlands
+NT,4,SSD01,Andado,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+NT,4,SSD02,Simpson Desert,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+NT,4,SSD03,Dieri,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+NT,4,STP01,Breakaways,STP,Stony Plains,1,Arid Shrublands and Desert
+NT,4,STP06,Witjira,STP,Stony Plains,1,Arid Shrublands and Desert
+NT,4,STU01,Renehan,STU,Sturt Plateau,12,North Australian Tropical Savanna Woodlands
+NT,4,STU02,Newcastle,STU,Sturt Plateau,12,North Australian Tropical Savanna Woodlands
+NT,4,STU03,Birdum,STU,Sturt Plateau,12,North Australian Tropical Savanna Woodlands
+NT,4,TAN01,Tanami Desert,TAN,Tanami,1,Arid Shrublands and Desert
+NT,4,TAN02,Wycliffe,TAN,Tanami,1,Arid Shrublands and Desert
+NT,4,TAN03,Sandover,TAN,Tanami,1,Arid Shrublands and Desert
+NT,4,TIW01,Tiwi,TIW,Tiwi Cobourg,12,North Australian Tropical Savanna Woodlands
+NT,4,TIW02,Cobourg,TIW,Tiwi Cobourg,12,North Australian Tropical Savanna Woodlands
+NT,4,VIB01,Keep,VIB,Victoria Bonaparte,12,North Australian Tropical Savanna Woodlands
+NT,4,VIB02,Hermit Creek,VIB,Victoria Bonaparte,12,North Australian Tropical Savanna Woodlands
+NT,4,VIB03,Angalarri,VIB,Victoria Bonaparte,12,North Australian Tropical Savanna Woodlands
+QLD,5,BBN01,Townsville Plains,BBN,Brigalow Belt North,8,Eastern Australia Tropical Rainforests
+QLD,5,BBN02,Bogie River Hills,BBN,Brigalow Belt North,8,Eastern Australia Tropical Rainforests
+QLD,5,BBN03,Cape River Hills,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN04,Beucazon Hills,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN05,Wyarra Hills,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN06,Northern Bowen Basin,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN06,Northern Bowen Basin,BBN,Brigalow Belt North,12,North Australian Tropical Savanna Woodlands
+QLD,5,BBN07,Belyando Downs,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN08,Upper Belyando Floodout,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN09,Anakie Inlier,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN10,Basalt Downs,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN11,Isaac-Comet Downs,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN12,Nebo-Connors Ranges,BBN,Brigalow Belt North,8,Eastern Australia Tropical Rainforests
+QLD,5,BBN13,South Drummond Basin,BBN,Brigalow Belt North,3,Brigalow Woodlands
+QLD,5,BBN14,Marlborough Plains,BBN,Brigalow Belt North,8,Eastern Australia Tropical Rainforests
+QLD,5,BBS01,Claude River Downs,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS02,Woorabinda,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS03,Boomer Range,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS04,Mount Morgan Ranges,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS05,Callide Creek Downs,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS06,Arcadia,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS07,Dawson River Downs,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS08,Banana-Auburn Ranges,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS09,Buckland Basalts,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS10,Carnarvon Ranges,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS11,Taroom Downs,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS12,Southern Downs,BBS,Brigalow Belt South,7,Eastern Australia Woodlands
+QLD,5,BBS13,Barakula,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS14,Dulacca Downs,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS15,Weribone High,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS16,Tara Downs,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS17,Eastern Darling Downs,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS18,Inglewood Sandstones,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS19,Moonie-Commoron Floodout,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS20,Moonie-Barwon Interfluve,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS21,Northern Basalts,BBS,Brigalow Belt South,3,Brigalow Woodlands
+QLD,5,BBS28,Narrandool,BBS,Brigalow Belt South,7,Eastern Australia Woodlands
+QLD,5,CHC01,Toko Plains,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC02,Sturt Stony Desert,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC03,Goneaway Tablelands,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC04,Diamantina-Eyre,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC05,Cooper-Diamantina Plains,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC06,Coongie,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC07,Lake Pure,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC08,Noccundra Slopes,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC11,Bulloo,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CHC12,Bulloo Dunefields,CHC,Channel Country,1,Arid Shrublands and Desert
+QLD,5,CMC01,Whitsunday,CMC,Central Mackay Coast,8,Eastern Australia Tropical Rainforests
+QLD,5,CMC02,Proserpine-Sarina Lowlands,CMC,Central Mackay Coast,8,Eastern Australia Tropical Rainforests
+QLD,5,CMC03,Clarke-Connors Ranges,CMC,Central Mackay Coast,8,Eastern Australia Tropical Rainforests
+QLD,5,CMC04,Byfield,CMC,Central Mackay Coast,8,Eastern Australia Tropical Rainforests
+QLD,5,CMC05,Manifold,CMC,Central Mackay Coast,8,Eastern Australia Tropical Rainforests
+QLD,5,CMC06,Debella,CMC,Central Mackay Coast,8,Eastern Australia Tropical Rainforests
+QLD,5,CYP01,Coen-Yambo Inlier,CYP,Cape York Peninsula,12,North Australian Tropical Savanna Woodlands
+QLD,5,CYP02,Starke Coastal Lowlands,CYP,Cape York Peninsula,13,North Eastern Australia Tropical Rainforests
+QLD,5,CYP03,Cape York-Torres Strait,CYP,Cape York Peninsula,12,North Australian Tropical Savanna Woodlands
+QLD,5,CYP04,Jardine-Pascoe Sandstones,CYP,Cape York Peninsula,12,North Australian Tropical Savanna Woodlands
+QLD,5,CYP05,Battle Camp Sandstones,CYP,Cape York Peninsula,13,North Eastern Australia Tropical Rainforests
+QLD,5,CYP06,Laura Lowlands,CYP,Cape York Peninsula,12,North Australian Tropical Savanna Woodlands
+QLD,5,CYP07,Weipa Plateau,CYP,Cape York Peninsula,12,North Australian Tropical Savanna Woodlands
+QLD,5,CYP08,Northern Holroyd Plain,CYP,Cape York Peninsula,12,North Australian Tropical Savanna Woodlands
+QLD,5,CYP09,Coastal Plains,CYP,Cape York Peninsula,12,North Australian Tropical Savanna Woodlands
+QLD,5,DEU01,Prairie-Torrens Creeks Alluvials,DEU,Desert Uplands,9,Mitchell Grasslands
+QLD,5,DEU02,Alice Tableland,DEU,Desert Uplands,9,Mitchell Grasslands
+QLD,5,DEU03,Cape-Campaspe Plains,DEU,Desert Uplands,9,Mitchell Grasslands
+QLD,5,DEU04,Jericho,DEU,Desert Uplands,9,Mitchell Grasslands
+QLD,5,DRP01,Culgoa-Bokhara,DRP,Darling Riverine Plains,7,Eastern Australia Woodlands
+QLD,5,DRP02,Warrambool-Moonie,DRP,Darling Riverine Plains,7,Eastern Australia Woodlands
+QLD,5,DRP03,Castlereagh-Barwon,DRP,Darling Riverine Plains,7,Eastern Australia Woodlands
+QLD,5,EIU01,Georgetown-Croydon,EIU,Einasleigh Uplands,12,North Australian Tropical Savanna Woodlands
+QLD,5,EIU02,Kidston,EIU,Einasleigh Uplands,12,North Australian Tropical Savanna Woodlands
+QLD,5,EIU03,Hodgkinson Basin,EIU,Einasleigh Uplands,12,North Australian Tropical Savanna Woodlands
+QLD,5,EIU04,Broken River,EIU,Einasleigh Uplands,12,North Australian Tropical Savanna Woodlands
+QLD,5,EIU05,Undara-Toomba Basalts,EIU,Einasleigh Uplands,12,North Australian Tropical Savanna Woodlands
+QLD,5,EIU06,Herberton-Wairuna,EIU,Einasleigh Uplands,12,North Australian Tropical Savanna Woodlands
+QLD,5,GFU01,McArthur,GFU,Gulf Fall and Uplands,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP01,Karumba Plains,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP02,Armraynald Plains,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP03,Woondoola Plains,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP04,Mitchell-Gilbert Fans,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP05,Claraville Plains,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP06,Holroyd Plain-Red Plateau,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP07,Doomadgee Plains,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP08,Donors Plateau,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP09,Gilberton Plateau,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,GUP10,Wellesley Islands,GUP,Gulf Plains,12,North Australian Tropical Savanna Woodlands
+QLD,5,MGD02,Barkly Tableland,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+QLD,5,MGD03,Georgina Limestone,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+QLD,5,MGD04,Southwestern Downs,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+QLD,5,MGD05,Kynuna Plateau,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+QLD,5,MGD06,Northern Downs,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+QLD,5,MGD07,Central Downs,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+QLD,5,MGD08,Southern Wooded Downs,MGD,Mitchell Grass Downs,9,Mitchell Grasslands
+QLD,5,MII01,Southwestern Plateaus and Floodouts,MII,Mount Isa Inlier,9,Mitchell Grasslands
+QLD,5,MII02,Thorntonia,MII,Mount Isa Inlier,9,Mitchell Grasslands
+QLD,5,MII03,Mount Isa,MII,Mount Isa Inlier,9,Mitchell Grasslands
+QLD,5,MUL01,West Balonne Plains,MUL,Mulga Lands,7,Eastern Australia Woodlands
+QLD,5,MUL02,Eastern Mulga Plains,MUL,Mulga Lands,7,Eastern Australia Woodlands
+QLD,5,MUL03,Nebine Plains,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+QLD,5,MUL04,North Eastern Plains,MUL,Mulga Lands,7,Eastern Australia Woodlands
+QLD,5,MUL05,Warrego Plains,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+QLD,5,MUL06,Langlo Plains,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+QLD,5,MUL07,Cuttaburra-Paroo,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+QLD,5,MUL08,West Warrego,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+QLD,5,MUL09,Northern Uplands,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+QLD,5,MUL10,West Bulloo,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+QLD,5,MUL11,Urisino Sandplains,MUL,Mulga Lands,5,Eastern Australia Mulga Shrublands
+QLD,5,NAN01,Nandewar Northern Complex,NAN,Nandewar,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,NET12,Tenterfield Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,NET15,Stanthorpe Plateau,NET,New England Tablelands,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,SEQ01,Burnett-Curtis Hills and Ranges,SEQ,South Eastern Queensland,8,Eastern Australia Tropical Rainforests
+QLD,5,SEQ02,Moreton Basin,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,SEQ03,Burringbar-Conondale Ranges,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,SEQ04,Sunshine Coast-Gold Coast Lowlands,SEQ,South Eastern Queensland,8,Eastern Australia Tropical Rainforests
+QLD,5,SEQ05,Brisbane-Barambah Volcanics,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,SEQ06,South Burnett,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,SEQ07,Gympie Block,SEQ,South Eastern Queensland,8,Eastern Australia Tropical Rainforests
+QLD,5,SEQ08,Burnett-Curtis Coastal Lowlands,SEQ,South Eastern Queensland,8,Eastern Australia Tropical Rainforests
+QLD,5,SEQ09,Great Sandy,SEQ,South Eastern Queensland,8,Eastern Australia Tropical Rainforests
+QLD,5,SEQ10,Scenic Rim,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,SEQ11,Woodenbong,SEQ,South Eastern Queensland,6,Eastern Australia Temperate and Subtropical forests
+QLD,5,SEQ14,Southern Great Barrier Reef,SEQ,South Eastern Queensland,8,Eastern Australia Tropical Rainforests
+QLD,5,SSD02,Simpson Desert,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+QLD,5,SSD03,Dieri,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+QLD,5,SSD05,Strzelecki Desert,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+QLD,5,WET01,Herbert,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+QLD,5,WET02,Tully,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+QLD,5,WET03,Innisfail,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+QLD,5,WET04,Atherton,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+QLD,5,WET05,Paluma-Seaview,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+QLD,5,WET06,Kirrama-Hinchinbrook,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+QLD,5,WET07,Bellenden Ker-Lamb,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+QLD,5,WET08,Macalister,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+QLD,5,WET09,Daintree-Bloomfield,WET,Wet Tropics,13,North Eastern Australia Tropical Rainforests
+SA,6,BHC01,Barrier Range,BHC,Broken Hill Complex,1,Arid Shrublands and Desert
+SA,6,BHC04,Barrier Range Outwash,BHC,Broken Hill Complex,1,Arid Shrublands and Desert
+SA,6,BHC05,Bimbowrie,BHC,Broken Hill Complex,1,Arid Shrublands and Desert
+SA,6,BHC06,Curnamona,BHC,Broken Hill Complex,1,Arid Shrublands and Desert
+SA,6,CER01,Mann-Musgrave Block,CER,Central Ranges,1,Arid Shrublands and Desert
+SA,6,CER02,Watarru,CER,Central Ranges,1,Arid Shrublands and Desert
+SA,6,CER03,Everard Block,CER,Central Ranges,1,Arid Shrublands and Desert
+SA,6,CHC02,Sturt Stony Desert,CHC,Channel Country,1,Arid Shrublands and Desert
+SA,6,CHC04,Diamantina-Eyre,CHC,Channel Country,1,Arid Shrublands and Desert
+SA,6,CHC05,Cooper-Diamantina Plains,CHC,Channel Country,1,Arid Shrublands and Desert
+SA,6,CHC06,Coongie,CHC,Channel Country,1,Arid Shrublands and Desert
+SA,6,CHC07,Lake Pure,CHC,Channel Country,1,Arid Shrublands and Desert
+SA,6,EYB01,Southern Yorke,EYB,Eyre Yorke Block,14,South Eastern Australia Mallee Woodlands
+SA,6,EYB02,St Vincent,EYB,Eyre Yorke Block,14,South Eastern Australia Mallee Woodlands
+SA,6,EYB03,Eyre Hills,EYB,Eyre Yorke Block,14,South Eastern Australia Mallee Woodlands
+SA,6,EYB04,Talia,EYB,Eyre Yorke Block,14,South Eastern Australia Mallee Woodlands
+SA,6,EYB05,Eyre Mallee,EYB,Eyre Yorke Block,14,South Eastern Australia Mallee Woodlands
+SA,6,FIN03,Tieyon,FIN,Finke,1,Arid Shrublands and Desert
+SA,6,FIN04,Pedirka,FIN,Finke,1,Arid Shrublands and Desert
+SA,6,FLB01,Mount Lofty Ranges,FLB,Flinders Lofty Block,10,South Australian Eucalypt Woodlands
+SA,6,FLB02,Broughton,FLB,Flinders Lofty Block,14,South Eastern Australia Mallee Woodlands
+SA,6,FLB03,Olary Spur,FLB,Flinders Lofty Block,14,South Eastern Australia Mallee Woodlands
+SA,6,FLB04,Southern Flinders,FLB,Flinders Lofty Block,14,South Eastern Australia Mallee Woodlands
+SA,6,FLB05,Northern Flinders,FLB,Flinders Lofty Block,14,South Eastern Australia Mallee Woodlands
+SA,6,FLB06,Central Flinders,FLB,Flinders Lofty Block,14,South Eastern Australia Mallee Woodlands
+SA,6,GAW01,Myall Plains,GAW,Gawler,1,Arid Shrublands and Desert
+SA,6,GAW02,Gawler Volcanics,GAW,Gawler,1,Arid Shrublands and Desert
+SA,6,GAW03,Gawler Lakes,GAW,Gawler,1,Arid Shrublands and Desert
+SA,6,GAW04,Arcoona Plateau,GAW,Gawler,1,Arid Shrublands and Desert
+SA,6,GAW05,Kingoonya,GAW,Gawler,1,Arid Shrublands and Desert
+SA,6,GAW06,Torrens,GAW,Gawler,1,Arid Shrublands and Desert
+SA,6,GAW07,Roxby,GAW,Gawler,1,Arid Shrublands and Desert
+SA,6,GAW08,Commonwealth Hill,GAW,Gawler,1,Arid Shrublands and Desert
+SA,6,GVD03,Maralinga,GVD,Great Victoria Desert,1,Arid Shrublands and Desert
+SA,6,GVD04,Kintore,GVD,Great Victoria Desert,1,Arid Shrublands and Desert
+SA,6,GVD05,Tallaringa,GVD,Great Victoria Desert,1,Arid Shrublands and Desert
+SA,6,GVD06,Yellabinna,GVD,Great Victoria Desert,1,Arid Shrublands and Desert
+SA,6,HAM01,Hampton,HAM,Hampton,1,Arid Shrublands and Desert
+SA,6,KAN01,Kangaroo Island,KAN,Kanmantoo,10,South Australian Eucalypt Woodlands
+SA,6,KAN02,Fleurieu,KAN,Kanmantoo,10,South Australian Eucalypt Woodlands
+SA,6,MDD01,South Olary Plain,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+SA,6,MDD02,Murray Mallee,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+SA,6,MDD03,Murray Lakes and Coorong,MDD,Murray Darling Depression,11,Naracoorte Woodlands
+SA,6,MDD04,Lowan Mallee,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+SA,6,MDD05,Wimmera,MDD,Murray Darling Depression,11,Naracoorte Woodlands
+SA,6,MDD07,Braemer,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+SA,6,NCP01,Bridgewater,NCP,Naracoorte Coastal Plain,11,Naracoorte Woodlands
+SA,6,NCP02,Glenelg Plain,NCP,Naracoorte Coastal Plain,11,Naracoorte Woodlands
+SA,6,NCP03,Lucindale,NCP,Naracoorte Coastal Plain,11,Naracoorte Woodlands
+SA,6,NCP04,Tintinara,NCP,Naracoorte Coastal Plain,11,Naracoorte Woodlands
+SA,6,NUL01,Carlisle,NUL,Nullarbor,1,Arid Shrublands and Desert
+SA,6,NUL02,Nullarbor Plain,NUL,Nullarbor,1,Arid Shrublands and Desert
+SA,6,NUL03,Yalata,NUL,Nullarbor,1,Arid Shrublands and Desert
+SA,6,RIV06,Murray Scroll Belt,RIV,Riverina,14,South Eastern Australia Mallee Woodlands
+SA,6,SSD02,Simpson Desert,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+SA,6,SSD03,Dieri,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+SA,6,SSD04,Warriner,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+SA,6,SSD05,Strzelecki Desert,SSD,Simpson Strzelecki Dunefields,1,Arid Shrublands and Desert
+SA,6,STP01,Breakaways,STP,Stony Plains,1,Arid Shrublands and Desert
+SA,6,STP02,Oodnadatta,STP,Stony Plains,1,Arid Shrublands and Desert
+SA,6,STP03,Murnpeowie,STP,Stony Plains,1,Arid Shrublands and Desert
+SA,6,STP04,Peake-Dennison Inlier,STP,Stony Plains,1,Arid Shrublands and Desert
+SA,6,STP05,Macumba,STP,Stony Plains,1,Arid Shrublands and Desert
+SA,6,STP06,Witjira,STP,Stony Plains,1,Arid Shrublands and Desert
+SA,6,STP07,Baltana,STP,Stony Plains,1,Arid Shrublands and Desert
+SA,6,SVP02,Mount Gambier,SVP,Southern Volcanic Plain,11,Naracoorte Woodlands
+TAS,7,BEL01,Ben Lomond,BEL,Ben Lomond,21,Tasman Temperate Forests
+TAS,7,FUR01,Wilsons Promontory,FUR,Furneaux,21,Tasman Temperate Forests
+TAS,7,FUR02,Flinders,FUR,Furneaux,21,Tasman Temperate Forests
+TAS,7,KIN01,King,KIN,King,21,Tasman Temperate Forests
+TAS,7,TCH01,Central Highlands,TCH,Tasmanian Central Highlands,23,Tasmanian Temperate Rainforests and Highland Forests
+TAS,7,TNM01,Northern Midlands,TNM,Tasmanian Northern Midlands,21,Tasman Temperate Forests
+TAS,7,TNS01,Northern Slopes,TNS,Tasmanian Northern Slopes,21,Tasman Temperate Forests
+TAS,7,TSE01,South East,TSE,Tasmanian South East,21,Tasman Temperate Forests
+TAS,7,TSR01,Southern Ranges,TSR,Tasmanian Southern Ranges,21,Tasman Temperate Forests
+TAS,7,TWE01,West,TWE,Tasmanian West,23,Tasmanian Temperate Rainforests and Highland Forests
+VIC,8,AUA01,Snowy Mountains,AUA,Australian Alps,2,Australian Alps Montane Grasslands and Heathlands
+VIC,8,AUA02,Victorian Alps,AUA,Australian Alps,2,Australian Alps Montane Grasslands and Heathlands
+VIC,8,FUR01,Wilsons Promontory,FUR,Furneaux,21,Tasman Temperate Forests
+VIC,8,FUR02,Flinders,FUR,Furneaux,21,Tasman Temperate Forests
+VIC,8,MDD02,Murray Mallee,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+VIC,8,MDD04,Lowan Mallee,MDD,Murray Darling Depression,14,South Eastern Australia Mallee Woodlands
+VIC,8,MDD05,Wimmera,MDD,Murray Darling Depression,11,Naracoorte Woodlands
+VIC,8,NCP01,Bridgewater,NCP,Naracoorte Coastal Plain,11,Naracoorte Woodlands
+VIC,8,NCP02,Glenelg Plain,NCP,Naracoorte Coastal Plain,11,Naracoorte Woodlands
+VIC,8,NSS01,Inland Slopes,NSS,NSW South Western Slopes,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,RIV03,Murray Fans,RIV,Riverina,16,South Eastern Australia Temperate Woodlands
+VIC,8,RIV04,Victorian Riverina,RIV,Riverina,16,South Eastern Australia Temperate Woodlands
+VIC,8,RIV05,Robinvale Plains,RIV,Riverina,16,South Eastern Australia Temperate Woodlands
+VIC,8,RIV06,Murray Scroll Belt,RIV,Riverina,14,South Eastern Australia Mallee Woodlands
+VIC,8,SCP01,Gippsland Plain,SCP,South East Coastal Plain,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SCP02,Otway Plain,SCP,South East Coastal Plain,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SCP03,Warrnambool Plain,SCP,South East Coastal Plain,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SEC01,East Gippsland Lowlands,SEC,South East Corner,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SEC02,South East Coastal Ranges,SEC,South East Corner,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SEH01,Highlands-Southern Fall,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SEH02,Highlands-Northern Fall,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SEH03,Otway Ranges,SEH,South Eastern Highlands,21,Tasman Temperate Forests
+VIC,8,SEH04,Strzelecki Ranges,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SEH15,Kybeyan-Gourock,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SEH16,Monaro,SEH,South Eastern Highlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,SVP01,Victorian Volcanic Plain,SVP,Southern Volcanic Plain,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,VIM01,Goldfields,VIM,Victorian Midlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,VIM02,Central Victorian Uplands,VIM,Victorian Midlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,VIM03,Greater Grampians,VIM,Victorian Midlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+VIC,8,VIM04,Dundas Tablelands,VIM,Victorian Midlands,15,South Eastern Australia Mixed Temperate Forests Woodlands and Grasslands
+WA,9,AVW01,Merredin,AVW,Avon Wheatbelt,19,South Western Australia Temperate Woodlands
+WA,9,AVW02,Katanning,AVW,Avon Wheatbelt,19,South Western Australia Temperate Woodlands
+WA,9,CAR01,Cape Range,CAR,Carnarvon,1,Arid Shrublands and Desert
+WA,9,CAR02,Wooramel,CAR,Carnarvon,1,Arid Shrublands and Desert
+WA,9,CEK01,Pentecost,CEK,Central Kimberley,12,North Australian Tropical Savanna Woodlands
+WA,9,CEK02,Hart,CEK,Central Kimberley,12,North Australian Tropical Savanna Woodlands
+WA,9,CEK03,Mount Eliza,CEK,Central Kimberley,12,North Australian Tropical Savanna Woodlands
+WA,9,CER01,Mann-Musgrave Block,CER,Central Ranges,1,Arid Shrublands and Desert
+WA,9,COO01,Mardabilla,COO,Coolgardie,1,Arid Shrublands and Desert
+WA,9,COO02,Southern Cross,COO,Coolgardie,1,Arid Shrublands and Desert
+WA,9,COO03,Eastern Goldfield,COO,Coolgardie,1,Arid Shrublands and Desert
+WA,9,DAL01,Fitzroy Trough,DAL,Dampierland,12,North Australian Tropical Savanna Woodlands
+WA,9,DAL02,Pindanland,DAL,Dampierland,12,North Australian Tropical Savanna Woodlands
+WA,9,ESP01,Fitzgerald,ESP,Esperance Plains,17,Esperance Coastal Shrublands and Mallee
+WA,9,ESP02,Recherche,ESP,Esperance Plains,17,Esperance Coastal Shrublands and Mallee
+WA,9,GAS01,Ashburton,GAS,Gascoyne,1,Arid Shrublands and Desert
+WA,9,GAS02,Carnegie,GAS,Gascoyne,1,Arid Shrublands and Desert
+WA,9,GAS03,Augustus,GAS,Gascoyne,1,Arid Shrublands and Desert
+WA,9,GES01,Geraldton Hills,GES,Geraldton Sandplains,22,Western Australian Temperate Sandplain Woodlands
+WA,9,GES02,Lesueur Sandplain,GES,Geraldton Sandplains,22,Western Australian Temperate Sandplain Woodlands
+WA,9,GID01,Lateritic Plain,GID,Gibson Desert,1,Arid Shrublands and Desert
+WA,9,GID02,Dune Field,GID,Gibson Desert,1,Arid Shrublands and Desert
+WA,9,GSD01,McLarty,GSD,Great Sandy Desert,1,Arid Shrublands and Desert
+WA,9,GSD02,Mackay,GSD,Great Sandy Desert,1,Arid Shrublands and Desert
+WA,9,GVD01,Shield,GVD,Great Victoria Desert,1,Arid Shrublands and Desert
+WA,9,GVD02,Central,GVD,Great Victoria Desert,1,Arid Shrublands and Desert
+WA,9,GVD03,Maralinga,GVD,Great Victoria Desert,1,Arid Shrublands and Desert
+WA,9,GVD04,Kintore,GVD,Great Victoria Desert,1,Arid Shrublands and Desert
+WA,9,HAM01,Hampton,HAM,Hampton,1,Arid Shrublands and Desert
+WA,9,ITI03,Timor Sea Coral Islands,ITI,Indian Tropical Islands,,
+WA,9,JAF01,Northern Jarrah Forest,JAF,Jarrah Forest,18,South Western Australia Temperate Forests
+WA,9,JAF02,Southern Jarrah Forest,JAF,Jarrah Forest,18,South Western Australia Temperate Forests
+WA,9,LSD01,Rudall,LSD,Little Sandy Desert,1,Arid Shrublands and Desert
+WA,9,LSD02,Trainor,LSD,Little Sandy Desert,1,Arid Shrublands and Desert
+WA,9,MAL01,Eastern Mallee,MAL,Mallee,4,South Western Australia Mallee Woodlands
+WA,9,MAL02,Western Mallee,MAL,Mallee,19,South Western Australia Temperate Woodlands
+WA,9,MUR01,Eastern Murchison,MUR,Murchison,1,Arid Shrublands and Desert
+WA,9,MUR02,Western Murchison,MUR,Murchison,1,Arid Shrublands and Desert
+WA,9,NOK01,Mitchell,NOK,Northern Kimberley,12,North Australian Tropical Savanna Woodlands
+WA,9,NOK02,Berkeley,NOK,Northern Kimberley,12,North Australian Tropical Savanna Woodlands
+WA,9,NUL01,Carlisle,NUL,Nullarbor,1,Arid Shrublands and Desert
+WA,9,NUL02,Nullarbor Plain,NUL,Nullarbor,1,Arid Shrublands and Desert
+WA,9,OVP01,Purnululu,OVP,Ord Victoria Plain,12,North Australian Tropical Savanna Woodlands
+WA,9,OVP02,South Kimberley Interzone,OVP,Ord Victoria Plain,12,North Australian Tropical Savanna Woodlands
+WA,9,PIL01,Chichester,PIL,Pilbara,1,Arid Shrublands and Desert
+WA,9,PIL02,Fortescue,PIL,Pilbara,1,Arid Shrublands and Desert
+WA,9,PIL03,Hamersley,PIL,Pilbara,1,Arid Shrublands and Desert
+WA,9,PIL04,Roebourne,PIL,Pilbara,1,Arid Shrublands and Desert
+WA,9,SWA01,Dandaragan Plateau,SWA,Swan Coastal Plain,20,Swan Coastal Plain Shrublands and Woodlands
+WA,9,SWA02,Perth,SWA,Swan Coastal Plain,20,Swan Coastal Plain Shrublands and Woodlands
+WA,9,TAN01,Tanami Desert,TAN,Tanami,1,Arid Shrublands and Desert
+WA,9,VIB01,Keep,VIB,Victoria Bonaparte,12,North Australian Tropical Savanna Woodlands
+WA,9,WAR01,Warren,WAR,Warren,18,South Western Australia Temperate Forests
+WA,9,YAL01,Edel,YAL,Yalgoo,1,Arid Shrublands and Desert
+WA,9,YAL02,Tallering,YAL,Yalgoo,1,Arid Shrublands and Desert
