@@ -21,4 +21,4 @@
 `cp result/xxxx-result.json /data/path/to/result.json`
 
 ## Disclaimer
-Results from this standalone version of NBAS differ slightly from the original NBAS service due to slight differences in how areas are clipped from the full datasets.
+Results from this standalone version of NBAS differ slightly from the NBAS service in PLANR due to slight differences in how areas are clipped from the full datasets.
