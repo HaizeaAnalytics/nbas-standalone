@@ -7,4 +7,4 @@
 | IBRA | IBRA7.subregions | IBRA7_subregions_states.zip | ibra7.tif |
 | CMZ | CMZ.code | Conservation_Management_Zones.zip | cmz.tif |
 
-Full datasets available in docker image chamithed/nbas:latest
+Full datasets available in docker image haizeaanalytics/nbas:latest
