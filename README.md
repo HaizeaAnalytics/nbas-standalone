@@ -38,9 +38,6 @@ This repository does not include detailed examples or tutorials. It is designed 
 Minimum recommended specifications:
 
 - **OS**: Linux, macOS, or Windows 11 (with WSL(Windows Subsystem for Linux))
-- **Python**: 3.11+(?)
-- **RAM**: XX(?) GB minimum (64 GB tested)
-- **Disk**: ~XX (?) GB for datasets and outputs
 - [CUDA enabled GPU with compute capability > 8](https://developer.nvidia.com/cuda-gpus)
 - [NVIDIA container toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
 - [Docker](https://docs.docker.com/engine/install/)
