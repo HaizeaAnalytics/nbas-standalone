@@ -48,10 +48,10 @@ Minimum recommended specifications:
 #### 1. Install Docker
 
 #### 2. Download (pull) docker image
-	`sudo docker image pull haizeaanalytics/nbas:latest`
+	`sudo docker image pull haizeaanalytics/nbas-terrakio-corrected:latest`
 
 #### 3. Run docker image and mount the home directory
-	`sudo docker run -ti --gpus all -v $HOME:/data haizeaanalytics/nbas:latest /bin/bash`
+	`sudo docker run -ti --gpus all -v $HOME:/data haizeaanalytics/nbas-terrakio-corrected:latest /bin/bash`
 
 *Note: This opens an interactive session inside the container with your home directory mounted in /data. Please ensure your payload is available in this directory. An example payload can be found [here](https://raw.githubusercontent.com/chamith-ed/nbas-standalone/refs/heads/main/tests/test_payload.json).*  
 
@@ -76,13 +76,13 @@ Minimum recommended specifications:
 #### 3. Enable "sudo" in Settings > System > For Developers
 
 #### 4. Download (pull) Docker image
-	'sudo docker image pull haizeaanalytics/nbas:latest /bin/bash'
+	'sudo docker image pull haizeaanalytics/nbas-terrakio-corrected:latest /bin/bash'
 	
 #### 5. Create a folder on your local machine (e.g. C:\Users\your_username\nbas_payloads) and save your prepared input file (i.e. payload) in .json format to this folder (e.g. test_payload.json)
 	* An example payload can be found [here](https://raw.githubusercontent.com/chamith-ed/nbas-standalone/refs/heads/main/tests/test_payload.json).*  
 	
 #### 6.	Open Windows PowerShell and run container. For example: 
- 'docker run -ti --gpus all -v C:\Users\your_username:/data haizeaanalytics/nbas:latest /bin/bash'
+ 'docker run -ti --gpus all -v C:\Users\your_username:/data haizeaanalytics/nbas-terrakio-corrected:latest /bin/bash'
 
 	This command:
 		- Starts the NBAS container
