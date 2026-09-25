@@ -5,10 +5,13 @@ import numpy as np
 import geopandas as gpd
 from copy import deepcopy
 from shapely import unary_union
-from shapely.geometry import box, shape
+from shapely.geometry import shape
 import xarray as xr
 from pydantic import BaseModel
+import math
 import rasterio
+import rasterio.features
+from rasterio.windows import Window
 import rioxarray
 import connectivity.connectivity as connectivity
 import json
@@ -77,23 +80,34 @@ def nbas(planr_payload):
     print(f"Results written to {file_name}")
 
 
-def get_poly_from_tif(tif_path, geom, padding=0):
-    if padding != 0:
-        geom = box(*geom.bounds).buffer(padding*90)
+def read_window(tif_path, bounds, padding=0):
+    """Read the whole pixels covering bounds (minx, miny, maxx, maxy), padded by `padding` pixels."""
+    with rasterio.open(tif_path) as src:
+        res = src.res[0]
+        minx, miny, maxx, maxy = (bounds[0] - padding*res, bounds[1] - padding*res,
+                                  bounds[2] + padding*res, bounds[3] + padding*res)
+        col0, row1 = ~src.transform * (minx, miny)
+        col1, row0 = ~src.transform * (maxx, maxy)
+        col0, row0 = math.floor(col0), math.floor(row0)
+        window = Window(col0, row0, math.ceil(col1) - col0, math.ceil(row1) - row0)
     ds = rioxarray.open_rasterio(tif_path, chunks={'x': 512, 'y': 512}, masked=True)
     ds.rio.write_crs("epsg:3577", inplace=True)
-    ds = ds.rio.clip([geom], drop=True, from_disk=True, all_touched=False)
-    ds = ds.squeeze()
-    return ds
+    return ds.rio.isel_window(window).squeeze()
+
+
+def values_touching_poly(tif_path, poly):
+    """Values of every pixel the polygon touches."""
+    da = read_window(tif_path, poly.bounds)
+    mask = rasterio.features.geometry_mask([poly], out_shape=da.shape, transform=da.rio.transform(),
+                                           all_touched=True, invert=True)
+    return da.values[mask]
 
 
 def get_ibra_and_cmz_from_poly(poly):
-    ibra = get_poly_from_tif("data/ibra7.tif", poly)
-    cmz = get_poly_from_tif("data/cmz.tif", poly)
-    ibra = get_majority(ibra.values) - 1
-    cmz = get_majority(cmz.values)
+    ibra = get_majority(values_touching_poly("data/ibra7.tif", poly))
+    cmz = get_majority(values_touching_poly("data/cmz.tif", poly))
     return ibra, cmz
-    
+
 
 def get_majority(values):
     # get most common value excluding NaNs
@@ -120,10 +134,11 @@ def feature_collection_to_multipolygon(feature_collection):
 
 
 def get_rasters(areas_gdf):
-    ecosys = get_poly_from_tif("data/ecosys.tif", areas_gdf.geometry[0], padding=PADDING)
-    cond = get_poly_from_tif("data/cond.tif", areas_gdf.geometry[0], padding=PADDING)
-    conn_nat = get_poly_from_tif("data/conn_nat.tif", areas_gdf.geometry[0], padding=PADDING)
-    conn_max = get_poly_from_tif("data/conn_max.tif", areas_gdf.geometry[0], padding=PADDING)
+    bounds = unary_union(list(areas_gdf.geometry)).bounds
+    ecosys = read_window("data/ecosys.tif", bounds, padding=PADDING)
+    cond = read_window("data/cond.tif", bounds, padding=PADDING)
+    conn_nat = read_window("data/conn_nat.tif", bounds, padding=PADDING)
+    conn_max = read_window("data/conn_max.tif", bounds, padding=PADDING)
 
     return ecosys, cond, conn_nat, conn_max
 

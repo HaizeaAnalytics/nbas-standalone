@@ -7,4 +7,6 @@
 | IBRA | IBRA7.subregions | IBRA7_subregions_states.zip | ibra7.tif |
 | CMZ | CMZ.code | Conservation_Management_Zones.zip | cmz.tif |
 
+`ibra7.tif` and `cmz.tif` must be on the same 90 m grid as `ecosys.tif`. `ibra7.tif` values = `INDEX` in `lookup_tables/ibra7_lookup.csv`; `cmz.tif` values = `CMZ_ID`.
+
 Full datasets available in docker image haizeaanalytics/nbas:latest
