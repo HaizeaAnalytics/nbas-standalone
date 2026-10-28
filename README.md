@@ -14,10 +14,9 @@ The standalone NBAS (version 1) produces the following metrics:
 
 Data inputs required to run the standalone version include:
 - Ecosystem type identification number (The ecosystem identification key for each ecosystem type is available from the NBAS data link below)
-- Starting and target ecosystem condition state reference number; and starting and forecast ecosystem condition scores (Please refer to the [NBAS settings] (https://www.dcceew.gov.au/environment/environmental-markets/nature-repair-market/incorporated-documents-and-resources#toc_7) for use with the Replanting native forest and woodland ecosystems method 
+- Starting and target ecosystem condition state reference number; and starting and forecast ecosystem condition scores (please refer to the [NBAS settings](https://www.dcceew.gov.au/environment/environmental-markets/nature-repair-market/incorporated-documents-and-resources#toc_7) for use with the Replanting native forest and woodland ecosystems method)
 - Project start date (`project_start_date`, DD-MM-YYYY), which selects the HCAS epoch used for condition and connectivity
-- An example payload is provided [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*  
-
+- An example payload is provided [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).
 
 For detailed documentation of NBAS methods, data sources, and outputs, please refer to:
  - [The Ecological Knowledge System for the Nature Repair Market. Technical report](https://publications.csiro.au/publications/publication/PIcsiro:EP2024-6312)
@@ -49,59 +48,77 @@ Minimum recommended specifications:
 #### 1. Install Docker
 
 #### 2. Download (pull) docker image
-	`sudo docker image pull haizeaanalytics/nbas-standalone:2.1.1`
+```bash
+sudo docker image pull haizeaanalytics/nbas-standalone:2.1.1
+```
 
 *Note: `haizeaanalytics/nbas-standalone:1.0.0` is the original release.*
 
 #### 3. Run docker image and mount the home directory
-	`sudo docker run -ti --gpus all -v $HOME:/data haizeaanalytics/nbas-standalone:2.1.1 /bin/bash`
+```bash
+sudo docker run -ti --gpus all -v $HOME:/data haizeaanalytics/nbas-standalone:2.1.1 /bin/bash
+```
 
-*Note: This opens an interactive session inside the container with your home directory mounted in /data. Please ensure your payload is available in this directory. An example payload can be found [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*  
+*Note: This opens an interactive session inside the container with your home directory mounted in /data. Please ensure your payload is available in this directory. An example payload can be found [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*
 
 #### 4. Run NBAS in the docker container
-`python3.11 main.py /data/path/to/payload.json`
+```bash
+python3.11 main.py /data/path/to/payload.json
+```
 
 #### 5. Copy result to home directory
-`cp results/xxxx-results.json /data/path/to/result.json`
+```bash
+cp results/xxxx-results.json /data/path/to/result.json
+```
 
-### Windows 11 
+### Windows 11
 #### Tested successfully with:
 - Intel i7-13700H, 64 GB RAM
 - Nvidia RTX 4060 GPU
 - CUDA Toolkit + Visual Studio (with Python, Node.js workloads)
 - Docker Desktop for Windows
 - Git Bash or PowerShell
-   
+
 #### 1. Install Docker Desktop
-   
-#### 2. Enable WSL and sudo: Run 'wsl --update' in Git Bash
+
+#### 2. Enable WSL: run `wsl --update` in Git Bash
 
 #### 3. Enable "sudo" in Settings > System > For Developers
 
 #### 4. Download (pull) Docker image
-	'sudo docker image pull haizeaanalytics/nbas-standalone:2.1.1'
-	
-#### 5. Create a folder on your local machine (e.g. C:\Users\your_username\nbas_payloads) and save your prepared input file (i.e. payload) in .json format to this folder (e.g. test_payload.json)
-	* An example payload can be found [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*  
-	
-#### 6.	Open Windows PowerShell and run container. For example: 
- 'docker run -ti --gpus all -v C:\Users\your_username:/data haizeaanalytics/nbas-standalone:2.1.1 /bin/bash'
+```bash
+sudo docker image pull haizeaanalytics/nbas-standalone:2.1.1
+```
 
-	This command:
-		- Starts the NBAS container
-		- Mounts your local folder (C:\Users\your_username) into the container as /data
-		- Opens a terminal inside the container
-		
-	You will receive a prompt like:root@5adb621718c3:/app#
-	This means you're now inside the container and ready to run NBAS
+#### 5. Save your payload to a local folder
+Create a folder on your local machine (e.g. `C:\Users\your_username\nbas_payloads`) and save your prepared input file (i.e. payload) in .json format to this folder (e.g. `test_payload.json`).
+
+*An example payload can be found [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*
+
+#### 6. Open Windows PowerShell and run the container
+```powershell
+docker run -ti --gpus all -v C:\Users\your_username:/data haizeaanalytics/nbas-standalone:2.1.1 /bin/bash
+```
+
+This command:
+- Starts the NBAS container
+- Mounts your local folder (`C:\Users\your_username`) into the container as `/data`
+- Opens a terminal inside the container
+
+You will receive a prompt like `root@5adb621718c3:/app#`. This means you're now inside the container and ready to run NBAS.
 
 #### 7. Inside the container, run:
-	' root@5adb621718c3:/app#python3.11 main.py /data/nbas_payloads/test_payload.json'
+```bash
+python3.11 main.py /data/nbas_payloads/test_payload.json
+```
 
-#### 8. NBAS will generate a results file. For example: Results written to results/2025-06-17T10:06:09-results.json
+#### 8. NBAS will generate a results file
+For example: `Results written to results/2025-06-17T10:06:09-results.json`
 
 #### 9. To move the results file from the container to your local folder, run:
-	'cp results/2025-06-17T10:06:09-results.json /data/nbas_payloads/result.json
+```bash
+cp results/2025-06-17T10:06:09-results.json /data/nbas_payloads/result.json
+```
 
 ## Disclaimer
 Biodiversity benefit scores will be reviewed by the Clean Energy Regulator as part of the project registration process. 
