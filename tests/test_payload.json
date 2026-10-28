@@ -82,6 +82,7 @@
             }
         ]
     },
+    "project_start_date": "31-05-2025",
     "crs": "epsg:4326",
     "options": {
         "mock_conn": false

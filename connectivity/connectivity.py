@@ -6,6 +6,9 @@ import tempfile
 import shutil
 
 
+METHOD_VERSION = "1.0.0"
+
+
 def run_connectivity(rast):
     cond_rast = rast["habval"]
     perm_rast = rast["perm"]
@@ -22,7 +25,7 @@ def run_connectivity(rast):
         shutil.copy("/app/connectivity/contextCBA.par", f"{tmpdirname}/contextCBA.par")
 
         for rast, name in zip(rasts, names):
-            flt = rast.values.tobytes()
+            flt = rast.values.astype(np.float32).tobytes()
             with open(f"{tmpdirname}/{name}.flt", 'wb') as f:
                 f.write(flt)
 
@@ -70,6 +73,7 @@ def run_connectivity(rast):
 
         conn_rast = read_connectivity_output(f"{tmpdirname}/NHV.flt", nrows, ncols)
 
+    conn_rast.attrs['method_version'] = METHOD_VERSION
     return conn_rast
 
 def read_connectivity_output(file_name, nrows, ncols):

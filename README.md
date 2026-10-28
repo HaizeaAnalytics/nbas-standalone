@@ -15,7 +15,8 @@ The standalone NBAS (version 1) produces the following metrics:
 Data inputs required to run the standalone version include:
 - Ecosystem type identification number (The ecosystem identification key for each ecosystem type is available from the NBAS data link below)
 - Starting and target ecosystem condition state reference number; and starting and forecast ecosystem condition scores (Please refer to the [NBAS settings] (https://www.dcceew.gov.au/environment/environmental-markets/nature-repair-market/incorporated-documents-and-resources#toc_7) for use with the Replanting native forest and woodland ecosystems method 
-- An example payload is provided [here](https://raw.githubusercontent.com/chamith-ed/nbas-standalone/refs/heads/main/tests/test_payload.json).*  
+- Project start date (`project_start_date`, DD-MM-YYYY), which selects the HCAS epoch used for condition and connectivity
+- An example payload is provided [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*  
 
 
 For detailed documentation of NBAS methods, data sources, and outputs, please refer to:
@@ -48,18 +49,20 @@ Minimum recommended specifications:
 #### 1. Install Docker
 
 #### 2. Download (pull) docker image
-	`sudo docker image pull haizeaanalytics/nbas-terrakio-corrected:latest`
+	`sudo docker image pull haizeaanalytics/nbas-standalone:2.1.1`
+
+*Note: `haizeaanalytics/nbas-standalone:1.0.0` is the original release.*
 
 #### 3. Run docker image and mount the home directory
-	`sudo docker run -ti --gpus all -v $HOME:/data haizeaanalytics/nbas-terrakio-corrected:latest /bin/bash`
+	`sudo docker run -ti --gpus all -v $HOME:/data haizeaanalytics/nbas-standalone:2.1.1 /bin/bash`
 
-*Note: This opens an interactive session inside the container with your home directory mounted in /data. Please ensure your payload is available in this directory. An example payload can be found [here](https://raw.githubusercontent.com/chamith-ed/nbas-standalone/refs/heads/main/tests/test_payload.json).*  
+*Note: This opens an interactive session inside the container with your home directory mounted in /data. Please ensure your payload is available in this directory. An example payload can be found [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*  
 
 #### 4. Run NBAS in the docker container
 `python3.11 main.py /data/path/to/payload.json`
 
 #### 5. Copy result to home directory
-`cp result/xxxx-result.json /data/path/to/result.json`
+`cp results/xxxx-results.json /data/path/to/result.json`
 
 ### Windows 11 
 #### Tested successfully with:
@@ -76,13 +79,13 @@ Minimum recommended specifications:
 #### 3. Enable "sudo" in Settings > System > For Developers
 
 #### 4. Download (pull) Docker image
-	'sudo docker image pull haizeaanalytics/nbas-terrakio-corrected:latest /bin/bash'
+	'sudo docker image pull haizeaanalytics/nbas-standalone:2.1.1'
 	
 #### 5. Create a folder on your local machine (e.g. C:\Users\your_username\nbas_payloads) and save your prepared input file (i.e. payload) in .json format to this folder (e.g. test_payload.json)
-	* An example payload can be found [here](https://raw.githubusercontent.com/chamith-ed/nbas-standalone/refs/heads/main/tests/test_payload.json).*  
+	* An example payload can be found [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*  
 	
 #### 6.	Open Windows PowerShell and run container. For example: 
- 'docker run -ti --gpus all -v C:\Users\your_username:/data haizeaanalytics/nbas-terrakio-corrected:latest /bin/bash'
+ 'docker run -ti --gpus all -v C:\Users\your_username:/data haizeaanalytics/nbas-standalone:2.1.1 /bin/bash'
 
 	This command:
 		- Starts the NBAS container
@@ -101,8 +104,6 @@ Minimum recommended specifications:
 	'cp results/2025-06-17T10:06:09-results.json /data/nbas_payloads/result.json
 
 ## Disclaimer
-Results from this standalone desktop version of NBAS differ slightly from the NBAS service in PLANR due to slight differences in how areas are clipped from the full datasets.
-
 Biodiversity benefit scores will be reviewed by the Clean Energy Regulator as part of the project registration process. 
 
 The NBAS code provides an estimate of biodiversity benefit only. We do not warrant the accuracy or completeness of any information contained in or calculated by the NBAS code, and users should use this information for estimation and guidance purposes only. 
