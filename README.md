@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # National Biodiversity Assessment System (NBAS) v2.1.1: Local Standalone Version 
 
 This repository provides a local standalone version of the National Biodiversity Assessment System (NBAS) v2.1.1 used in [PLANR](https://planr.gov.au/). It enables users to run NBAS assessments independently of the PLANR website and web service.
@@ -64,27 +69,27 @@ Minimum recommended specifications:
 #### 5. Copy result to home directory
 `cp result/xxxx-result.json /data/path/to/result.json`
 
-###Windows 11 
-####Tested successfully with:
+### Windows 11 
+#### Tested successfully with:
 - Intel i7-13700H, 64 GB RAM
 - Nvidia RTX 4060 GPU
 - CUDA Toolkit + Visual Studio (with Python, Node.js workloads)
 - Docker Desktop for Windows
 - Git Bash or PowerShell
    
-####1. Install Docker Desktop
+#### 1. Install Docker Desktop
 
-####2. Enable WSL and sudo: Run 'wsl --update' in Git Bash
+#### 2. Enable WSL and sudo: Run 'wsl --update' in Git Bash
 
-####3. Enable "sudo" in Settings > System > For Developers
+#### 3. Enable "sudo" in Settings > System > For Developers
 
-####4. Download (pull) Docker image
+#### 4. Download (pull) Docker image
 	'sudo docker image pull haizeaanalytics/nbas-standalone:2.1.1'
 	
-####5. Create a folder on your local machine (e.g. C:\Users\your_username\nbas_payloads) and save your prepared input file (i.e. payload) in .json format to this folder (e.g. test_payload.json)
+#### 5. Create a folder on your local machine (e.g. C:\Users\your_username\nbas_payloads) and save your prepared input file (i.e. payload) in .json format to this folder (e.g. test_payload.json)
 	* An example payload can be found [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*  
 	
-####6.	Open Windows PowerShell and run container. For example: 
+#### 6.	Open Windows PowerShell and run container. For example: 
  'docker run -ti --gpus all -v C:\Users\your_username:/data haizeaanalytics/nbas-standalone:2.1.1 /bin/bash'
 
 	This command:
@@ -95,12 +100,12 @@ Minimum recommended specifications:
 	You will receive a prompt like:root@5adb621718c3:/app#
 	This means you're now inside the container and ready to run NBAS
 
-####7. Inside the container, run:
+#### 7. Inside the container, run:
 	' root@5adb621718c3:/app#python3.11 main.py /data/nbas_payloads/test_payload.json'
 
-####8. NBAS will generate a results file. For example: Results written to results/2025-06-17T10:06:09-results.json
+#### 8. NBAS will generate a results file. For example: Results written to results/2025-06-17T10:06:09-results.json
 
-####9. To move the results file from the container to your local folder, run:
+#### 9. To move the results file from the container to your local folder, run:
 	'cp results/2025-06-17T10:06:09-results.json /data/nbas_payloads/result.json
 
 ## Disclaimer
@@ -115,19 +120,19 @@ Do not rely solely on the NBAS code to make decisions about your project, as the
 
 The NBAS will be updated as the market evolves, knowledge improves, and technology changes over time. As this happens, the scores that NBAS calculates may change. 
 
-##Attribution
+## Attribution
 This repository is developed and maintained by Haizea Analytics Pty Ltd. The NBAS code and NBAS data is based on research created under the Project "An Ecological Knowledge System for the Nature Repair Market", which was funded by DCCEEW. CSIRO is leading development of the EKS in partnership with DCCEEW. 
 
 ##Ownership of intellectual property rights 
 
 This publication is based (in part) on research and data created as part of the Project. The Commonwealth owns the intellectual property rights in any such new material developed while carrying out the Project.
 
-##Licensing 
+## Licensing 
 The code in this repository is licensed under an MIT Licence (See MIT license for more details). Additional material published as part of the Project is licensed under a Creative Commons Attribution 4.0 International licence, except for the Commonwealth Coat of Arms, any logos, any material supplied by third parties, any material protected by a trademark and any images and/or photographs. More information on this CC BY license is set out at the Creative Commons website.
 
-##Citation
+## Citation
 
 Please cite as: Terasaki Hart, Drew; Ferrier, Simon; Hoskins, Andrew; McEvoy, John; Edirisinghe, Chamith; Larraondo, Pablo; Rosauer, Dan; Walker, Simon; Behzadnia, Sunny; Munroe, Samantha; & Murphy, Helen (2026): Ecological Knowledge System: National Biodiversity Assessment System (NBAS) local standalone version (version 2.1.1). v4. CSIRO. Service Collection. http://hdl.handle.net/102.100.100/735657?index=1 
 
-##Questions 
+## Questions 
 For questions, please contact eks@dcceew.gov.au. 
