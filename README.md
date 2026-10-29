@@ -103,13 +103,13 @@ Minimum recommended specifications:
 #### 7. Inside the container, run:
 	' root@5adb621718c3:/app#python3.11 main.py /data/nbas_payloads/test_payload.json'
 
-#### 8. NBAS will generate a results file. For example: Results written to results/2025-06-17T10:06:09-results.json
+#### 8. NBAS will generate a results file. 
+For example: Results written to results/2025-06-17T10:06:09-results.json
 
 #### 9. To move the results file from the container to your local folder, run:
 	'cp results/2025-06-17T10:06:09-results.json /data/nbas_payloads/result.json
 
 ## Disclaimer
-
 Biodiversity benefit scores will be reviewed by the Clean Energy Regulator as part of the project registration process. 
 
 The NBAS code provides an estimate of biodiversity benefit only. We do not warrant the accuracy or completeness of any information contained in or calculated by the NBAS code, and users should use this information for estimation and guidance purposes only. 
@@ -123,16 +123,14 @@ The NBAS will be updated as the market evolves, knowledge improves, and technolo
 ## Attribution
 This repository is developed and maintained by Haizea Analytics Pty Ltd. The NBAS code and NBAS data is based on research created under the Project "An Ecological Knowledge System for the Nature Repair Market", which was funded by DCCEEW. CSIRO is leading development of the EKS in partnership with DCCEEW. 
 
-##Ownership of intellectual property rights 
-
+## Ownership of intellectual property rights 
 This publication is based (in part) on research and data created as part of the Project. The Commonwealth owns the intellectual property rights in any such new material developed while carrying out the Project.
 
 ## Licensing 
 The code in this repository is licensed under an MIT Licence (See MIT license for more details). Additional material published as part of the Project is licensed under a Creative Commons Attribution 4.0 International licence, except for the Commonwealth Coat of Arms, any logos, any material supplied by third parties, any material protected by a trademark and any images and/or photographs. More information on this CC BY license is set out at the Creative Commons website.
 
 ## Citation
-
-Please cite as: Terasaki Hart, Drew; Ferrier, Simon; Hoskins, Andrew; McEvoy, John; Edirisinghe, Chamith; Larraondo, Pablo; Rosauer, Dan; Walker, Simon; Behzadnia, Sunny; Munroe, Samantha; & Murphy, Helen (2026): Ecological Knowledge System: National Biodiversity Assessment System (NBAS) local standalone version (version 2.1.1). v4. CSIRO. Service Collection. http://hdl.handle.net/102.100.100/735657?index=1 
+Please cite as: Terasaki Hart DE, Rosauer DF, Ferrier S, Walker SJ, McEvoy JF, Edirisinghe C, Larraondo P, Hoskins A, Behzadnia S, Munroe SEM and Murphy HT (2026) National Biodiversity Assessment System (NBAS) v2.1.1: A standalone codebase for the Ecological Knowledge System. CSIRO. Service Collection v3. http://hdl.handle.net/102.100.100/735657?index=1 
 
 ## Questions 
 For questions, please contact eks@dcceew.gov.au. 
