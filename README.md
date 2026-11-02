@@ -83,17 +83,19 @@ cp results/xxxx-results.json /data/path/to/result.json
 
 #### 2. Enable WSL: Run `wsl --update` in Git Bash
 
-#### 3. Download (pull) Docker image
+#### 3. Enable "sudo" in Settings > System > For Developers
+
+#### 4. Download (pull) Docker image
 ```bash
-docker image pull haizeaanalytics/nbas-standalone:2.1.1
+sudo docker image pull haizeaanalytics/nbas-standalone:2.1.1
 ```
 
-#### 4. Save your payload to a local folder
+#### 5. Save your payload to a local folder
 Create a folder on your local machine (e.g. `C:\Users\your_username\nbas_payloads`) and save your prepared input file (i.e. payload) in .json format to this folder (e.g. `test_payload.json`).
 
 *An example payload can be found [here](https://raw.githubusercontent.com/HaizeaAnalytics/nbas-standalone/refs/heads/2.1.1/tests/test_payload.json).*
 
-#### 5. Open Windows PowerShell and run the container
+#### 6. Open Windows PowerShell and run the container
 For example:
 ```powershell
 docker run -ti --gpus all -v C:\Users\your_username:/data haizeaanalytics/nbas-standalone:2.1.1 /bin/bash
@@ -106,15 +108,15 @@ This command:
 
 You will receive a prompt like `root@5adb621718c3:/app#`. This means you're now inside the container and ready to run NBAS.
 
-#### 6. Inside the container, run:
+#### 7. Inside the container, run:
 ```bash
 python3.11 main.py /data/nbas_payloads/test_payload.json
 ```
 
-#### 7. NBAS will generate a results file
+#### 8. NBAS will generate a results file
 For example: `Results written to results/2025-06-17T10:06:09-results.json`
 
-#### 8. To move the results file from the container to your local folder, run:
+#### 9. To move the results file from the container to your local folder, run:
 ```bash
 cp results/2025-06-17T10:06:09-results.json /data/nbas_payloads/result.json
 ```
