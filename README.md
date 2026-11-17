@@ -1,5 +1,7 @@
 # National Biodiversity Assessment System (NBAS) v2.1.1: Local Standalone Version
 
+> Looking for the original NBAS v1? It is kept on the [`v1` branch](https://github.com/HaizeaAnalytics/nbas-standalone/tree/v1) (tag `v1.0.0`).
+
 This repository provides a local standalone version of the National Biodiversity Assessment System (NBAS) v2.1.1 used in [PLANR](https://planr.gov.au/). It enables users to run NBAS assessments independently of the PLANR website and web service.
 
 The NBAS was developed as part of the Ecological Knowledge System (EKS). The EKS is a partnership between the Commonwealth Scientific and Industrial Research Organisation (CSIRO) and the Department of Climate Change, Energy, the Environment and Water (DCCEEW) to establish a transparent and authoritative source of information, biodiversity assessment and forecast capability for the Nature Repair Market.
